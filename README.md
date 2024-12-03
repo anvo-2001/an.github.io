@@ -1,7 +1,7 @@
 ---
 title: "Data Analyst Portfolio"
 author: "Nguyen Hoai An Vo"
-date: "`r Sys.Date()`"
+date: {{ site.time | date: "%Y-%m-%d" }}
 output:
   github_document: default
 ---
