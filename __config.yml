@@ -1,7 +1,28 @@
-title: Nguyen Hoai An Vo
+#title: Nguyen Hoai An Vo
 #flag
-description: >
-  first Description
-  <br>
-  <a href="https://www.linkedin.com/in/vnhoaian/">View My LinkedIn Profile</a>
+#description: >
+#  first Description
+#  <br>
+#  <a href="https://www.linkedin.com/in/vnhoaian/">View My LinkedIn Profile</a>
 theme: jekyll-theme-minimal
+title: "Data Analyst Portfolio"
+description: "Showcasing my data analytics projects and skills"
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://anvo-2001.github.io/an_da_portfolio/" # Replace with your GitHub Pages URL
+author: "Nguyen Hoai An Vo"
+email: iya979597@gmail.com
+social_links:
+  linkedin: "https://www.linkedin.com/in/vnhoaian/"
+#  portfolio: "https://yourwebsite.com"
+header: 
+  image: "/images/header.jpg" # Optional header image (upload to your repo)
+footer: 
+  copyright: "© `r Sys.Date()` Nguyen Hoai An Vo. All rights reserved."
+navbar:
+  items:
+    - title: "Home"
+      url: "/"
+    - title: "Projects"
+      url: "/projects"
+    - title: "Contact"
+      url: "/contact"
