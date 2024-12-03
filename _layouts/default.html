@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+  <div class="container">
+    <!-- Left Sidebar -->
+    <aside class="sidebar">
+      <img src="{{ "/assets/images/" | append: site.sidebar.profile_picture | relative_url }}" alt="Profile Picture" class="profile-pic">
+      <h1>{{ site.sidebar.name }}</h1>
+      <p>Email: <a href="mailto:{{ site.sidebar.email }}">{{ site.sidebar.email }}</a></p>
+      <p>LinkedIn: <a href="{{ site.sidebar.linkedin }}" target="_blank">View Profile</a></p>
+      <p>GitHub: <a href="{{ site.sidebar.github }}" target="_blank">View Repositories</a></p>
+    </aside>
+
+    <!-- Right Content Area -->
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
+</body>
+</html>
