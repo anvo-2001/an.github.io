@@ -4,7 +4,6 @@ author: "Nguyen Hoai An Vo"
 output:
   github_document: default
 ---
-<p>Date: {{ site.time | date: "%Y-%m-%d" }}</p>
 
 # 👋 Welcome to My Data Analyst Portfolio
 
