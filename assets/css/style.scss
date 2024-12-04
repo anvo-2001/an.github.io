@@ -17,7 +17,13 @@ html, body {
 
 /* Override theme styles */
 .wrapper {
-    width: 100%; /* Full width */
-    margin: 0; /* No margin */
-    padding: 0; /* No padding */
+    display: flex; /* Use flexbox for layout */
+    margin: 0; /* No margin on the wrapper */
+    gap: 20px; /* Optional: space between columns */
+}
+
+.left-column, .right-column {
+    flex: 1; /* Equal width for both columns */
+    padding: 20px; /* Optional padding */
+    margin: 0; /* Ensure no margin */
 }
