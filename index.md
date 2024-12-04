@@ -27,6 +27,7 @@ This Portfolio is a compilation of Data Analysis projects I have done for academ
 
 This project examines housing affordability trends in England from 1997 to 2022 using Office for National Statistics (ONS) data. It explores affordability disparities across regions and provides insights for policymakers, urban planners, and real estate professionals. 
 
+#
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img align="left" width="200" height="120" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg" style="margin-right: 20px;">
@@ -36,7 +37,5 @@ This project examines housing affordability trends in England from 1997 to 2022 
         Covid19 Tracking.pdf
         <br />
         Covid19 Tracking.pbix
-        <br /><br />
-        This project examines housing affordability trends in England from 1997 to 2022 using Office for National Statistics (ONS) data. It explores affordability disparities across regions and provides insights for policymakers, urban planners, and real estate professionals. 
     </div>
 </div>
