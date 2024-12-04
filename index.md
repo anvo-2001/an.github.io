@@ -12,9 +12,19 @@ This Portfolio is a compilation of Data Analysis projects I have done for academ
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[A Look at Affordable Housing in England (1997-2022)](https://github.com/an.github.io/Housing-Affordability-Analysis)**
+<img align="left" width="200" height="120" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[A Look at Affordable Housing in England (1997-2022)](https://github.com/anvo-2001/an.github.io/tree/main/Housing-Affordability-Analysis)**
+<br />
+Report.pdf
+<br />
+RScript.R
+<br />
+Environment.Rdata
+
+#
 
 This project examines housing affordability trends in England from 1997 to 2022 using Office for National Statistics (ONS) data. It explores affordability disparities across regions and provides insights for policymakers, urban planners, and real estate professionals. 
+
+
 #
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
