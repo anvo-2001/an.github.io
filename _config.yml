@@ -1,6 +1,10 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Nguyen Hoai An Vo
+logo: /assets/img/profile.jpg
+description: Data Analyst Junior | MSc Data Science for Economics
+<br><br>
+Email:  "iya979597@gmail.com"
+<br>
+<a href="https://www.linkedin.com/in/vnhoaian/">View My LinkedIn Profile </a>
+
+# show_downloads: true
 theme: jekyll-theme-minimal
