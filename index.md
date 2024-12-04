@@ -28,8 +28,15 @@ This Portfolio is a compilation of Data Analysis projects I have done for academ
 This project examines housing affordability trends in England from 1997 to 2022 using Office for National Statistics (ONS) data. It explores affordability disparities across regions and provides insights for policymakers, urban planners, and real estate professionals. 
 
 
-#
-
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
-
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img align="left" width="200" height="120" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg" style="margin-right: 20px;">
+    <div>
+        <strong><a href="Covid19-Tracking">Covid 19 Tracking Dashboard</a></strong>
+        <br />
+        Covid19 Tracking.pdf
+        <br />
+        Covid19 Tracking.pbix
+        <br />
+        This project examines housing affordability trends in England from 1997 to 2022 using Office for National Statistics (ONS) data. It explores affordability         disparities across regions and provides insights for policymakers, urban planners, and real estate professionals. 
+    </div>
+</div>
