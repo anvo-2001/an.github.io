@@ -20,8 +20,6 @@ RScript.R
 <br />
 Environment.Rdata
 
-#
-
 This project examines housing affordability trends in England from 1997 to 2022 using Office for National Statistics (ONS) data. It explores affordability disparities across regions and provides insights for policymakers, urban planners, and real estate professionals. 
 
 
