@@ -1,8 +1,7 @@
 profile:
-  picture: "assets/profile.jpg"  # Path to your profile picture
-  name: "Your Name"
+  picture: "assets/images/profile.jpg"  # Path to your profile picture
+  name: "Nguyen Hoai An Vo"
   title: "Data Analyst"
-  email: "your.email@example.com"
-  phone: "+1234567890"
-  linkedin: "https://www.linkedin.com/in/yourprofile"
-  github: "https://github.com/yourusername"
+  email: "iya979597@gmail.com"
+  linkedin: "https://www.linkedin.com/in/vnhoaian/"
+#  github: "https://github.com/yourusername"
