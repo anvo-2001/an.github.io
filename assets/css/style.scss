@@ -2,28 +2,3 @@
 ---
 
 @import "jekyll-theme-minimal";
-
-/* CSS Reset */
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box; /* Ensures padding and borders are included in width/height */
-}
-
-html, body {
-    width: 100%;
-    height: 100%;
-}
-
-/* Override theme styles */
-.wrapper {
-    display: flex; /* Use flexbox for layout */
-    margin: 0; /* No margin on the wrapper */
-    gap: 20px; /* Optional: space between columns */
-}
-
-.left-column, .right-column {
-    flex: 1; /* Equal width for both columns */
-    padding: 20px; /* Optional padding */
-    margin: 0; /* Ensure no margin */
-}
