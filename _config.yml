@@ -3,7 +3,7 @@ logo: /assets/img/profile.jpg
 description: Data Analyst Junior | MSc Data Science for Economics
 
 email: "iya979597@gmail.com"
-<a href="https://www.linkedin.com/in/vnhoaian/">View My LinkedIn Profile </a>
+linkedin: "https://www.linkedin.com/in/vnhoaian/"
 
 # show_downloads: true
 theme: jekyll-theme-minimal
