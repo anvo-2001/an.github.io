@@ -1,5 +1,5 @@
 #### Set working directory and Load necessary libraries
-setwd("C:/Users/PC - MSI/OneDrive - The University of Liverpool/An - 0924/2024 - UoL/ECON 705 Data Mgt/Exercise/Assignment1/Assignment1_Data")
+# setwd("")
 library(readxl)
 library(writexl)
 library(tidyverse)
