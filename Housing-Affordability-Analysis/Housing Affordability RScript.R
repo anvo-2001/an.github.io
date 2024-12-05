@@ -95,7 +95,7 @@ local_district_data_cleaned <- left_join(house_price_local_district, earnings_lo
 #   "Region_Data" = region_data_cleaned,
 #   "Local_District_Data" = local_district_data_cleaned
 # )
-# write_xlsx(output_data, path = "Exercise/Assignment1/Assignment1_Data/Data_Cleaned.xlsx")
+# write_xlsx(output_data, path = "")
 
 #############
 #### ANALYSIS 
