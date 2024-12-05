@@ -13,15 +13,15 @@ This Portfolio is a compilation of Data Analysis projects I have done for academ
 ## Projects
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img align="left" width="200" height="120" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg" style="margin-right: 20px;">
+    <img align="left" width="200" height="120" src="assets/img/Housing affordability.jpg" style="margin-right: 20px;">
     <div>
-        <strong><a href="https://github.com/anvo-2001/an.github.io/tree/main/Housing-Affordability-Analysis">A Look at Affordable Housing in England (1997-2022)</a></strong>
+        <strong><a href="Housing-Affordability-Analysis">A Look at Affordable Housing in England (1997-2022)</a></strong>
         <br />
-        <a href="https://github.com/anvo-2001/an.github.io/blob/main/Housing-Affordability-Analysis/Dataset.xlsx">Dataset.xlsx</a>
+        <a href="Housing-Affordability-Analysis/Dataset.xlsx">Dataset.xlsx</a>
         <br />
-        <a href="https://github.com/anvo-2001/an.github.io/blob/main/Housing-Affordability-Analysis/Housing Affordability Report.pdf">Analysis Report.pdf</a>
+        <a href="Housing-Affordability-Analysis/Housing Affordability Report.pdf">Analysis Report.pdf</a>
         <br />
-        <a href="https://github.com/anvo-2001/an.github.io/blob/main/Housing-Affordability-Analysis/Housing Affordability RScript.R">RScript.R</a>
+        <a href="Housing-Affordability-Analysis/Housing Affordability RScript.R">RScript.R</a>
     </div>
 </div>
 
