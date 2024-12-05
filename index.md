@@ -17,17 +17,16 @@ This Portfolio is a compilation of Data Analysis projects I have done for academ
     <div>
         <strong><a href="https://github.com/anvo-2001/an.github.io/tree/main/Housing-Affordability-Analysis">A Look at Affordable Housing in England (1997-2022)</a></strong>
         <br />
-        Report.pdf
+        <a href="https://github.com/anvo-2001/an.github.io/blob/main/Housing-Affordability-Analysis/Dataset.xlsx">Dataset.xlsx</a>
         <br />
-        RScript.R
+        <a href="https://github.com/anvo-2001/an.github.io/blob/main/Housing-Affordability-Analysis/Housing Affordability Report.pdf">Analysis Report.pdf</a>
         <br />
-        Environment.Rdata
+        <a href="https://github.com/anvo-2001/an.github.io/blob/main/Housing-Affordability-Analysis/Housing Affordability RScript.R">RScript.R</a>
     </div>
 </div>
 
 This project examines housing affordability trends in England from 1997 to 2022 using Office for National Statistics (ONS) data. It explores affordability disparities across regions and provides insights for policymakers, urban planners, and real estate professionals. 
 
-#
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img align="left" width="200" height="120" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg" style="margin-right: 20px;">
