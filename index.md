@@ -21,7 +21,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
         <br />
         <a href="Housing-Affordability-Analysis/Housing Affordability Report.pdf">Analysis Report.pdf</a>
         <br />
-        <a href="Housing-Affordability-Analysis/Housing Affordability RScript.R">RScript.R</a>
+        <a href="Housing-Affordability-Analysis/Housing Affordability RScript.R">R Script.R</a>
     </div>
 </div>
 
@@ -33,13 +33,13 @@ This project examines housing affordability trends in England from 1997 to 2022 
     <div>
         <strong><a href="Covid19-Tracking">Covid 19 Tracking Dashboard</a></strong>
         <br />
-        <a href="https://ourworldindata.org/covid-deaths">Data source</a>
+        <a href="https://ourworldindata.org/covid-deaths">Data Source</a>
         <br />
         <a href="Covid19-Tracking/Covid 19 Project.pdf">Tracking Dashboard.pdf</a>
         <br />
         <a href="Covid19-Tracking/Covid 19 Project.pbix">Tracking Dashboard.pbix</a>
         <br />
-        <a href="Covid19-Tracking/Covid 19 Project.sql">Data Process.sql</a>
+        <a href="Covid19-Tracking/Covid 19 Project.sql">Data Preprocess.sql</a>
     </div>
 </div>
 This project analyzes the COVID-19 pandemic, focusing on total cases, deaths, and case fatality rates (CFR) across different continents. Utilizing SQL for data processing and Power BI, the project visualizes key metrics, including a moving average of the case fatality rate and daily new confirmed cases per million people.
