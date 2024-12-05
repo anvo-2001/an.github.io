@@ -31,11 +31,15 @@ This project examines housing affordability trends in England from 1997 to 2022 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img align="left" width="200" height="120" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg" style="margin-right: 20px;">
     <div>
-        <strong><a href="Covid19-Tracking">Covid 19 Tracking Dashboard</a></strong>
+        <strong><a href="https://github.com/anvo-2001/an.github.io/tree/main/Covid19-Tracking">Covid 19 Tracking Dashboard</a></strong>
         <br />
-        Covid19 Tracking.pdf
+        <a href="https://ourworldindata.org/covid-deaths">Data source</a>
         <br />
-        Covid19 Tracking.pbix
+        <a href="https://github.com/anvo-2001/an.github.io/tree/main/Covid19-Tracking/Covid 19 Project.pdf">Tracking Dashboard.pdf</a>
+        <br />
+        <a href="https://github.com/anvo-2001/an.github.io/tree/main/Covid19-Tracking/Covid 19 Project.pbix">Tracking Dashboard.pbix</a>
+        <br />
+        <a href="https://github.com/anvo-2001/an.github.io/tree/main/Covid19-Tracking/Covid 19 Project.sql">Data Process.sql</a>
     </div>
 </div>
-Data source: https://ourworldindata.org/covid-deaths
+This project provides a comprehensive analysis of the COVID-19 pandemic, focusing on total cases, deaths, and case fatality rates (CFR) across different continents. Utilizing SQL for data processing and Power BI, the project visualizes key metrics, including a moving average of the case fatality rate and daily new confirmed cases per million people. The analysis highlights trends over time and regional variations, offering insights into the pandemic's impact globally.
