@@ -25,21 +25,19 @@ This portfolio is a compilation of data analysis projects I have completed for a
     </div>
 </div>
 
-This project examines housing affordability trends in England from 1997 to 2022 using Office for National Statistics (ONS) data. It explores affordability disparities across regions and provides insights for policymakers, urban planners, and real estate professionals. 
+This project utilizes R Studio to examine housing affordability trends in England from 1997 to 2022 using Office for National Statistics (ONS) data. It explores affordability disparities across regions and provides insights for policymakers, urban planners, and real estate professionals. 
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img align="left" width="200" height="120" src="assets/img/Covid 19.jpg" style="margin-right: 20px;">
+    <img align="left" width="200" height="120" src="assets/img/AdventureWorks_Logo.png" style="margin-right: 20px;">
     <div>
-        <strong><a href="Covid19-Tracking">Covid 19 Tracking Dashboard</a></strong>
+        <strong><a href="Adventureworks">Adventureworks Sales Dashboard</a></strong>
         <br />
-        <a href="https://ourworldindata.org/covid-deaths">Data Source</a>
+        <a href="https://ourworldindata.org/covid-deaths](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms">Data Source</a>
         <br />
-        <a href="Covid19-Tracking/Covid 19 Project.pdf">Tracking Dashboard.pdf</a>
+        <a href="AW Dashboard.pdf">Sales Dashboard.pdf</a>
         <br />
-        <a href="Covid19-Tracking/Covid 19 Project.pbix">Tracking Dashboard.pbix</a>
-        <br />
-        <a href="Covid19-Tracking/Covid 19 Project.sql">Data Preprocess.sql</a>
+        <a href="AW Dashboard.pbix">Sales Dashboard.pbix</a>
     </div>
 </div>
-This project analyzes the COVID-19 pandemic, focusing on total cases, deaths, and case fatality rates (CFR) across different continents. Utilizing SQL for data processing and Power BI, the project visualizes key metrics, including a moving average of the case fatality rate and daily new confirmed cases per million people.
+This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends, and profit margins, enabling data-driven decision-making.
