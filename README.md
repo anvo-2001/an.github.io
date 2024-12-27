@@ -12,9 +12,11 @@ This project examines housing affordability trends in England from 1997 to 2022 
 
 #
 
-<img align="left" width="250" height="150" src="assets/img/Covid 19.jpg"> **[Covid 19 Tracking Dashboard](https://github.com/anvo-2001/an.github.io/blob/main//Covid19-Tracking)**
+<img align="left" width="250" height="150" src="assets/img/Covid 19.jpg"> **[Adventureworks Sales Dashboard](https://github.com/anvo-2001/an.github.io/tree/main/Adventureworks)**
 
-This project analyzes the COVID-19 pandemic, focusing on total cases, deaths, and case fatality rates (CFR) across different continents. Utilizing SQL for data processing and Power BI, the project visualizes key metrics, including a moving average of the case fatality rate and daily new confirmed cases per million people.
+This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends, and profit margins, enabling data-driven decision-making.
+
+#
 
 ## Core Competencies
 
