@@ -8,11 +8,11 @@ This portfolio is a compilation of data analysis projects I have completed for a
 
 <img align="left" width="250" height="150" src="assets/img/Housing affordability.jpg"> **[A Look at Affordable Housing in England (1997-2022)](https://github.com/anvo-2001/an.github.io/blob/main/Housing-Affordability-Analysis)**
 
-This project examines housing affordability trends in England from 1997 to 2022 using Office for National Statistics (ONS) data. It explores affordability disparities across regions and provides insights for policymakers, urban planners, and real estate professionals.  
+This project utilizes R Studio to examine housing affordability trends in England from 1997 to 2022 using Office for National Statistics (ONS) data. It explores affordability disparities across regions and provides insights for policymakers, urban planners, and real estate professionals.  
 
 #
 
-<img align="left" width="250" height="150" src="assets/img/Covid 19.jpg"> **[Adventureworks Sales Dashboard](https://github.com/anvo-2001/an.github.io/tree/main/Adventureworks)**
+<img align="left" width="250" height="150" src="assets/img/AdventureWorks_Logo.png"> **[Adventureworks Sales Dashboard](https://github.com/anvo-2001/an.github.io/tree/main/Adventureworks)**
 
 This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends, and profit margins, enabling data-driven decision-making.
 
