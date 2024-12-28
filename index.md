@@ -1,7 +1,7 @@
 # Data Analyst Portfolio
 This portfolio is a compilation of data analysis projects I have completed for academic and self-learning purposes.
 
-- **Email**: [iya979597@gmail.com](iya979597@gmail.com)
+- **Email**: [vnhoaian791@gmail.com](vnhoaian791@gmail.com)
 - **LinkedIn**: [linkedin.com/vnhoaian](https://www.linkedin.com/in/vnhoaian/)
 
 ## Core Competencies
