@@ -31,13 +31,13 @@ This project utilizes R Studio to examine housing affordability trends in Englan
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img align="left" width="200" height="120" src="assets/img/AdventureWorks_Logo.png" style="margin-right: 20px;">
     <div>
-        <strong><a href="Adventureworks">Adventureworks Sales Dashboard</a></strong>
+        <strong>Adventureworks Sales Dashboard</strong>
         <br />
-        <a href="https://ourworldindata.org/covid-deaths](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms">Data Source</a>
+        <a href="https://ourworldindata.org/covid-deaths">Data Source</a>
         <br />
-        <a href="AW Dashboard.pdf">Sales Dashboard.pdf</a>
+        <a href="Adventureworks/AW Dashboard.pdf">Sales Dashboard.pdf</a>
         <br />
-        <a href="AW Dashboard.pbix">Sales Dashboard.pbix</a>
+        <a href="Adventureworks/AW Dashboard.pbix">Sales Dashboard.pbix</a>
     </div>
 </div>
 This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends, and profit margins, enabling data-driven decision-making.
