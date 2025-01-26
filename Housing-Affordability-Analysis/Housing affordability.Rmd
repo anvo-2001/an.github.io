@@ -50,6 +50,7 @@ These insights can inform policymakers, urban planners, and real estate professi
 **Figure 1: Housing Affordability Ratio, 1997 to 2022**
 
 *Affordability ratios have doubled over 25 years, indicating higher unaffordability.*
+![Figure 1](Housing-Affordability-Analysis/Plots/Figure 1.png)
 
 There was a property boom at the start of the series when house prices increased by over 10% annually. Housing in England was no longer affordable since 2002, with house prices outpacing median earnings by 5.1 times (Figure 1). The global financial crisis of 2008 caused a dip in 2009 and stabilize affordability until 2013. From 2014 onwards, the market experienced substantial growth.
 
