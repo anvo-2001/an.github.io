@@ -1,0 +1,165 @@
+---
+title: "Housing Affordability Report"
+author: "Nguyen Hoai An Vo"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+<style>
+/* Justify all text in the document */
+p, li {
+  text-align: justify;
+}
+</style>
+
+# Abstract & Key Takeaways
+
+This report examines trends in housing affordability across England from 1997 to 2022, with key findings as follows:
+
+- Rapid house price growth outpacing wage increases has made housing no longer affordable since 2002.
+- Unaffordability has been on an upward trend. In 2022, people are expected to spend £275,000 for a house (8.3 times annual earnings).
+- There are huge variations across regions and local authorities. Southern areas are much more unaffordable than northern regions.
+- London is the least affordable (affordability ratio of 14) and North East is the most affordable (ratio of 5).
+- Tower Hamlets, the most affordable area in London, is less affordable than nearly 60% of England's local authorities.
+- Implications such as increased housing supply, relaxed planning restrictions, social housing investments, tax reforms, and new rental regulations, need to consider regional disparities.
+
+# Introduction
+
+This study analyzes data from the Office for National Statistics (ONS), which includes median house prices and workplace-based earnings across England from 1997 to 2022.
+
+To measure housing affordability, the affordability ratio was calculated by dividing house prices by annual earnings. Although the ratio of 3 is widely used (Herbert, Hermann & McCue, 2018), the ratio of 5 is closer to England’s housing market. This threshold is based on traditional mortgage practices and Bank of England guidelines limiting high loan-to-income ratios (Office for National Statistics, 2023). Therefore, this study follows a threshold of 5 years of income to indicate affordable houses.
+
+The analysis examines the housing market trends since 1997, with a focus on the most recent data of 2022. It addresses three key questions regarding: 
+
+The analysis examines the housing market trends since 1997, with a focus on the most recent data of 2022. It addresses three key questions regarding: 
+
+1. How has housing affordability evolved in England since 1997? 
+
+2. How does housing affordability vary geographically in 2022? 
+
+3. Which local authorities lead in affordability and unaffordability in 2022?
+
+These insights can inform policymakers, urban planners, and real estate professionals to address the challenges of housing affordability across England. 
+
+
+
+# Analysis
+
+## 1. Housing Market Evolution (1997-2022)
+
+**Figure 1: Housing Affordability Ratio, 1997 to 2022**
+
+*Affordability ratios have doubled over 25 years, indicating higher unaffordability.*
+
+There was a property boom at the start of the series when house prices increased by over 10% annually. Housing in England was no longer affordable since 2002, with house prices outpacing median earnings by 5.1 times (Figure 1). The global financial crisis of 2008 caused a dip in 2009 and stabilize affordability until 2013. From 2014 onwards, the market experienced substantial growth.
+
+The COVID-19 pandemic led to a peak in 2021, driven by low interest rates (Peach and McQuillan, 2021) and the demand for homes for remote work (National Bureau of Economic Research, 2022). Although 2021-2022 saw a return to the pre-coronavirus pandemic trend, the unaffordability level is still high. In 2022, employees need to spend 8.3 times of their annual earnings buying a home.
+
+**Figure 2. House prices and 5-year earnings, 1997 to 2022 **
+
+*While house prices have quadrupled, earnings only doubled since 1997*
+
+The main driver of unaffordability is the rising gap between house prices and earnings since 2002 (Figure 2). Since 1997, house prices have quadrupled, while earnings have only doubled. The gap widened significantly particularly in London, the South East, and East, with London’s house prices rising 42.5% 
+between 2014 and 2022 (Appendix A). In 2022, the average home in England costs around £275,000. 
+
+## 2. How does housing affordability vary geographically? 
+
+Figure 3 highlights a sharp north-south division, where southern areas are much more unaffordable. In 2022, London’s affordability ratio is 14, the highest in England, while that of Northeast is the lowest at 5. No areas in London have a ratio below 10, and even Tower Hamlets, the most affordable in London, is less affordable than nearly 60% of England local authorities. London's high ratio reflects its global status, high demand, limited supply, and strong economy (Greater London Authority, 2022).
+
+Affordability distribution also varies within each region. Looking at London, Kensington and Chelsea have median house prices of £1,400,000 and an affordability ratio of 38.4, four times higher than that of Tower Hamlets. Meanwhile, the North East has the narrowest affordability range, with all areas having a ratio below 10.
+
+**Figure 3. Range of housing affordability ratio by region in 2022**
+
+*There are substantial variations in affordability across regions and within each region*
+
+## 3. Which local authorities lead in affordability and unaffordability? 
+
+In 2022, the 10 most affordable areas in England have homes selling for less than 5 times earnings (Table 1). Only 6.5% of England's local authorities are in this group (below threshold of 5), which is a sharp decline from 90% in 1997, implicating a tougher house market. However, this marks an improvement from just 9 areas in 2021, aligning with 2019–2020 levels. Some of the most affordable areas include Copeland, Barrow-in-Furness, and Hyndburn.
+
+**Table 1. Top 10 affordable local authorities in 2022**
+
+| #  |         Region          |         Local Authority          | Affordability Ratio |
+|:--:|:-----------------------:|:-------------------------------:|:-------------------:|
+|  1 |       North West        |           Copeland              |         2.9         |
+|  2 |       North West        |       Barrow-in-Furness         |         3.9         |
+|  3 |       North West        |           Hyndburn              |         4.1         |
+|  4 |       North East        |          Hartlepool             |         4.1         |
+|  5 |       North East        |        County Durham            |         4.3         |
+|  6 |       North East        |        Middlesbrough            |         4.4         |
+|  7 | Yorkshire and The Humber| Kingston upon Hull, City        |         4.4         |
+|  8 |       North West        |    Blackburn with Darwen        |         4.6         |
+|  9 |     West Midlands       |         Stoke-on-Trent          |         4.6         |
+| 10 |       North West        |            Burnley              |         4.6         |
+
+
+In contrast, the least affordable areas require at least 18 times annual earnings to buy a home (Table 2). Top in the list are Kensington and Chelsea, and Westminster. Appendix B illustrates the full picture of affordability ratio across local authorities. Those variations in affordability across regions and 
+local authorities suggest that region-specific policies may be more effective than a universal approach.
+
+**Table 2. Top 10 unaffordable local authorities in 2022**
+
+| #  |      Region       |         Local Authority         | Affordability Ratio |
+|:--:|:-----------------:|:-------------------------------:|:-------------------:|
+|  1 |      London       | Kensington and Chelsea          |        38.4         |
+|  2 |      London       | Westminster                     |        22.0         |
+|  3 |      London       | Richmond upon Thames            |        20.7         |
+|  4 |    South East     | Elmbridge                       |        20.0         |
+|  5 |    South East     | Epsom and Ewell                 |        20.0         |
+|  6 |      London       | Hammersmith and Fulham          |        19.6         |
+|  7 |      London       | Wandsworth                      |        18.9         |
+|  8 | East of England   | St Albans                       |        18.4         |
+|  9 |      London       | Haringey                        |        18.0         |
+| 10 |      London       | Camden                          |        18.0         |
+
+# Implications
+
+A greater housing supply is one of the solutions to tackle unaffordability in England (Wills, 2023). However, only 25% of new homes were affordable in 2021-22 (Department for Levelling Up, Housing and Communities, 2022). Moreover, figure 4 shows that net additional dwellings2 are currently below the targeted 300,000 (Full Fact, 2024). Therefore, more investments in house construction are necessary.
+
+**Figure 4. Net additional dwellings, 1997 to 2022**
+
+*The number of new homes fall short of the target* 
+
+Policymakers could also increase housing supply through relaxed planning restrictions, invest in social housing, and implement targeted tax reforms, such as higher taxes on second homes and vacant properties (Wills, 2023). Finally, strengthening rental regulations may also offer an alternative to homeownership (BNP Paribas Real Estate, 2023). However, given the abovementioned regional and subregional disparities in affordability ratio, it is crucial for local authorities to tailor those housing policies to their unique local circumstances (Department for Transport, 2017).
+
+# Conclusion 
+
+The analysis underscores England’s worsening housing affordability over 25 years, with house prices far outpacing earnings, particularly in London and South East. To address this issue, policies including increased house constructions, relaxed planning restrictions, social housing investments, tax reforms and new rental regulations could be considered. However, those implications should be tailored to local authorities due to subregional disparities in affordability ratio. The report's focus on house price-to-earnings ratios limits its perspective, as this measure may not fully reflect housing costs. Future research could distinguish between dwelling types (all dwellings, existing, and new) and earnings measures (workplace-based and residence-based) (Office for National Statistics, 2022). Another approach is to examine alternative metrics of affordability, such as private rental affordability, purchase affordability, and mortgage repayment affordability (Office for National Statistics, 2019).
+
+# References 
+
+1. BNP Paribas Real Estate, 2023. What the Renters’ Reform Bill means for the private rented sector. [online] Available at: https://www.realestate.bnpparibas.co.uk/2023/jun/what-renters-reform-bill-means-private-rented-sector [Accessed 9 November 2024] 
+
+2. Department for Levelling Up, Housing and Communities (2022) Housing supply: net additional dwellings, England 2021 to 2022. GOV.UK. Available at:  https://www.gov.uk/government/statistics/housing-supply-net-additional-dwellings-england-2021-to-2022/housing-supply-net-additional-dwellings-england-2021-to-2022#comparison-with-affordable-housing-supply [Accessed 9 November 2024] 
+
+3. Department for Transport, 2017. The Value of Transport Time Savings for Business Users and Car Drivers. [online] Available at: https://assets.publishing.service.gov.uk/media/5a790b4740f0b676f4a7d6d9/1774894.pdf [Accessed 9 November 2024] 
+
+4. Full Fact, 2024. House building in England: explained. [online] Available at: 
+https://fullfact.org/economy/house-building-england-election-2024/ [Accessed 11 November 2024]. 
+
+5. Greater London Authority, 2022. Impact of affordable housing on London’s 
+economic productivity. [online] Available at:   
+https://www.london.gov.uk/dd2682-impact-affordable-housing-londons-economic-productivity?ac-206793=206776 [Accessed 8 November 2024] 
+
+6. Herbert, C.E., Hermann, C., and McCue, D., 2022. Measuring Housing Affordability: Assessing the 21st Century Challenge of Housing Affordability. Joint Center for Housing Studies of Harvard University. [online] Available at: https://www.jchs.harvard.edu/sites/default/files/Harvard_JCHS_Herbert_Hermann_McCue_measuring_housing_affordability.pdf [Accessed 7 
+November 2024] 
+
+7. National Bureau of Economic Research (NBER), 2022. Pandemic-Induced Remote Work and Rising House Prices. NBER Digest. [online] Available at: 
+https://www.nber.org/digest/202207/pandemic-induced-remote-work-and-rising-house-prices [Accessed 9 November 2024] 
+
+8. Office for National Statistics (ONS), 2022. Housing affordability in England and Wales: 2022. [online] Available at:  
+https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2022 [Accessed 9 November 2024] 
+
+9. Office for National Statistics (ONS), 2023. Housing affordability in England and Wales: 2023. [online] Available at: 
+https://www.ons.gov.uk/peoplepopulationandcommunity/housing/bulletins/housingaffordabilityinenglandandwales/2023 [Accessed 10 November 2024] 
+
+10. Office for National Statistics (ONS), 2023. Housing affordability in England and Wales QMI. [online] Available at: 
+https://www.ons.gov.uk/peoplepopulationandcommunity/housing/methodologies/housingaffordabilityinenglandandwalesqmi#quality-characteristics-of-the-housing-affordability-in-england-and-wales-data [Accessed 10 November 2024]. 
+
+11. Office for National Statistics, 2019. Alternative measures of housing affordability: financial year ending 2018. [online] Available at: 
+https://www.ons.gov.uk/peoplepopulationandcommunity/housing/articles/alternativemeasuresofhousingaffordability/financialyearending2018 
+[Accessed 12 November 2024].
+
+12. Peach, R. and McQuillan, C., 2021. The Housing Boom and the Decline in Mortgage Rates. Liberty Street Economics, Federal Reserve Bank of New
+York. [online] Available at: https://libertystreeteconomics.newyorkfed.org/2021/09/the-housing-boom-and-the-decline-in-mortgage-rates/ [Accessed 7 November 2024] 
+
+13. Wills, J., 2023. How can we make homes more affordable? LSE British Politics and Policy. [online] Available at: 
+https://blogs.lse.ac.uk/politicsandpolicy/how-can-we-make-homes-more-affordable/ [Accessed 7 November 2024]
