@@ -15,11 +15,11 @@ This portfolio is a compilation of data analysis projects I have completed for a
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img align="left" width="200" height="120" src="assets/img/Housing affordability.jpg" style="margin-right: 20px;">
     <div>
-        <strong><a href="Housing-Affordability-Analysis">A Look at Affordable Housing in England (1997-2022)</a></strong>
+        <strong>A Look at Affordable Housing in England (1997-2022)</strong>
         <br />
         <a href="Housing-Affordability-Analysis/Dataset.xlsx">Dataset.xlsx</a>
         <br />
-        <a href="Housing-Affordability-Analysis/Housing Affordability Report.pdf">Analysis Report.pdf</a>
+        <a href="Housing-affordability.html">Analysis Report.html</a>
         <br />
         <a href="Housing-Affordability-Analysis/Housing Affordability RScript.R">R Script.R</a>
     </div>
