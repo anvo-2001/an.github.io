@@ -19,7 +19,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
         <br />
         <a href="Housing-Affordability-Analysis/Dataset.xlsx">Dataset.xlsx</a>
         <br />
-        <a href="Housing-Affordability-Analysis/Housing-affordability.html">Analysis Report.html</a>
+        <a href="Housing-Affordability-Analysis/Housing Affordability Report.pdf">Analysis Report.pdf</a>
         <br />
         <a href="Housing-Affordability-Analysis/Housing Affordability RScript.R">R Script.R</a>
     </div>
