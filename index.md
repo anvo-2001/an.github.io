@@ -53,9 +53,11 @@ This project utilizes Power BI Desktop to analyze sales, profit margins, and cus
         <br />
         <a href="Global CO2 Emissions/Global CO2 Emissions - Report.pdf">Analysis Report.pdf</a>
         <br />
-        <a href="Global CO2 Emissions/AW Global CO2 Emissions - RScript.R">R Script.R</a>
+        <a href="Global CO2 Emissions/Global CO2 Emissions - RScript.R">R Script.R</a>
+        <br />
+        <a href="Global CO2 Emissions/Global CO2 Emissions - Time series (gdp and co2).R">Time Series R Script.R</a>
     </div>
 </div>
 
 
-This analysis investigates global CO₂ emissions over 50 years (1972–2022), using data from Our World in Data. It examines key trends, such as the doubling of emissions, and explores the responsibilities for emissions reduction. The report highlights that while China and India are the largest current emitters, developed nations like the United States hold significant historical accountability due to their cumulative emissions.
+This analysis investigates global CO₂ emissions over 50 years (1972–2022) using Our World in Data data. It examines key trends, such as the doubling of emissions, explores emissions globally, and runs time series analysis for GDP and C02 emissions. The report highlights that while China and India are the largest current emitters, developed nations like the United States hold significant historical accountability due to their cumulative emissions. Additionally, a 1% increase in GDP is associated with a 0.298% increase in CO2 emissions
