@@ -14,9 +14,9 @@ This portfolio is a compilation of data analysis projects I have completed for a
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img align="left" width="200" height="120" src="assets/img/CO2 emissions.jpg" style="margin-right: 20px;">
     <div>
-        <strong>Who Bears the Responsibilities? Insights into Global CO₂ Emissions</strong>
+        <strong>Who Bears the Responsibilities? Insights into Global CO₂ Emissions (1972-2022)</strong>
         <br />
-        <a href="Global-CO2-Emissions/Global CO2 Emissions - Report.pdf">Analysis Report.pdf</a>
+        <a href="Global-CO2-Emissions/Global CO2 Emissions - Report.pdf"> CO2 Emissions Report.pdf</a>
         <br />
         <a href="Global-CO2-Emissions/Global CO2 Emissions - Dataset.xlsx">Dataset.xlsx</a>
         <br />
@@ -26,14 +26,14 @@ This portfolio is a compilation of data analysis projects I have completed for a
     </div>
 </div>
 
-This analysis investigates global CO₂ emissions over 50 years (1990–2022) using Our World in Data data. It examines key trends, such as the doubling of emissions, explores emissions globally, and runs time series analysis for GDP and C02 emissions. The report highlights that while China and India are the largest current emitters, developed nations like the United States hold significant historical accountability due to their cumulative emissions. Additionally, a 1% increase in GDP is associated with a 0.298% increase in CO2 emissions
+This report examines global CO₂ emission trends over 50 years using Our World in Data sources. It analyzes emissions distribution, historical responsibilities, and the correlation between GDP growth and emissions. Findings reveal that global CO₂ emissions have doubled since 1972, with China and India as the largest current emitters, while developed nations like the U.S. hold significant historical responsibility. Additionally, the analysis shows that a 1% increase in GDP corresponds to a 0.298% rise in CO₂ emissions.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img align="left" width="200" height="120" src="assets/img/Housing affordability.jpg" style="margin-right: 20px;">
     <div>
         <strong>A Look at Affordable Housing in England (1997-2022)</strong>
         <br />
-        <a href="Housing-Affordability-Analysis/Housing Affordability Report.pdf">Analysis Report.pdf</a>
+        <a href="Housing-Affordability-Analysis/Housing Affordability Report.pdf">Housing Affordability Analysis.pdf</a>
         <br />
         <a href="Housing-Affordability-Analysis/Dataset.xlsx">Dataset.xlsx</a>
         <br />
@@ -42,7 +42,7 @@ This analysis investigates global CO₂ emissions over 50 years (1990–2022) us
 </div>
 
 
-This report examines housing affordability trends in England (1997–2022), focusing on the growing gap between house prices and earnings. Key findings include a doubling of the affordability ratio since 1997, with London being the least affordable region. 
+This report examines housing affordability in England from 1997 to 2022 using data from the Office for National Statistics (ONS). It analyzes trends and regional disparities. Findings reveal a significant decline in affordability, with house prices growing faster than wages, especially in southern regions like London. The affordability ratio, based on five years of income, highlights these challenges.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img align="left" width="200" height="120" src="assets/img/AdventureWorks_Logo.png" style="margin-right: 20px;">
@@ -58,5 +58,5 @@ This report examines housing affordability trends in England (1997–2022), focu
 </div>
 
 
-This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends, and profit margins, enabling data-driven decision-making.
+This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins, enabling data-driven decision-making.
 
