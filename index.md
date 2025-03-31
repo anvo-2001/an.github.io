@@ -7,7 +7,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
 ## Core Competencies
 
 - **Methodologies**: Statistics, Time Series, Regression
-- **Languages**: R (tidyverse, ggplot2, tmap), SQL, DAX <!-- Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), -->  
+- **Languages**: R (tidyverse, ggplot2, tmap, series, urca, forecast), SQL, DAX <!-- Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), -->  
 - **Tools**: R Studio, Azure Data Studio, Power BI, Excel
 
 ## Projects
