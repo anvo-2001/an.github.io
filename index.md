@@ -11,15 +11,31 @@ This portfolio is a compilation of data analysis projects I have completed for a
 - **Tools**: R Studio, Azure Data Studio, Power BI, Excel
 
 ## Projects
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+    <img align="left" width="200" height="120" src="assets/img/CO2 emissions.jpg" style="margin-right: 20px;">
+    <div>
+        <strong>Who Bears the Responsibilities? Insights into Global CO₂ Emissions</strong>
+        <br />
+        <a href="Global-CO2-Emissions/Global CO2 Emissions - Report.pdf">Analysis Report.pdf</a>
+        <br />
+        <a href="Global-CO2-Emissions/Global CO2 Emissions - Dataset.xlsx">Dataset.xlsx</a>
+        <br />
+        <a href="Global-CO2-Emissions/Global CO2 Emissions - RScript.R">R Script.R</a>
+        <br />
+        <a href="Global-CO2-Emissions/Global CO2 Emissions - Time series (gdp and co2).R">Time Series R Script.R</a>
+    </div>
+</div>
+
+This analysis investigates global CO₂ emissions over 50 years (1990–2022) using Our World in Data data. It examines key trends, such as the doubling of emissions, explores emissions globally, and runs time series analysis for GDP and C02 emissions. The report highlights that while China and India are the largest current emitters, developed nations like the United States hold significant historical accountability due to their cumulative emissions. Additionally, a 1% increase in GDP is associated with a 0.298% increase in CO2 emissions
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <img align="left" width="200" height="120" src="assets/img/Housing affordability.jpg" style="margin-right: 20px;">
     <div>
         <strong>A Look at Affordable Housing in England (1997-2022)</strong>
         <br />
-        <a href="Housing-Affordability-Analysis/Dataset.xlsx">Dataset.xlsx</a>
-        <br />
         <a href="Housing-Affordability-Analysis/Housing Affordability Report.pdf">Analysis Report.pdf</a>
+        <br />
+        <a href="Housing-Affordability-Analysis/Dataset.xlsx">Dataset.xlsx</a>
         <br />
         <a href="Housing-Affordability-Analysis/Housing Affordability RScript.R">R Script.R</a>
     </div>
@@ -33,31 +49,14 @@ This report examines housing affordability trends in England (1997–2022), focu
     <div>
         <strong>Adventureworks Sales Dashboard</strong>
         <br />
-        <a href="https://ourworldindata.org/covid-deaths">Data Source</a>
-        <br />
         <a href="Adventureworks/AW Dashboard.pdf">Sales Dashboard.pdf</a>
         <br />
         <a href="Adventureworks/AW Dashboard.pbix">Sales Dashboard.pbix</a>
+        <br />
+        <a href="https://ourworldindata.org/covid-deaths">Data Source</a>
     </div>
 </div>
 
 
 This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends, and profit margins, enabling data-driven decision-making.
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img align="left" width="200" height="120" src="assets/img/CO2 emissions.jpg" style="margin-right: 20px;">
-    <div>
-        <strong>Who Bears the Responsibilities? Insights into Global CO₂ Emissions</strong>
-        <br />
-        <a href="Global CO2 Emissions/Global CO2 Emissions - Data.xlsx">Dataset.xlsx</a>
-        <br />
-        <a href="Global CO2 Emissions/Global CO2 Emissions - Report.pdf">Analysis Report.pdf</a>
-        <br />
-        <a href="Global CO2 Emissions/Global CO2 Emissions - RScript.R">R Script.R</a>
-        <br />
-        <a href="Global CO2 Emissions/Global CO2 Emissions - Time series (gdp and co2).R">Time Series R Script.R</a>
-    </div>
-</div>
-
-
-This analysis investigates global CO₂ emissions over 50 years (1972–2022) using Our World in Data data. It examines key trends, such as the doubling of emissions, explores emissions globally, and runs time series analysis for GDP and C02 emissions. The report highlights that while China and India are the largest current emitters, developed nations like the United States hold significant historical accountability due to their cumulative emissions. Additionally, a 1% increase in GDP is associated with a 0.298% increase in CO2 emissions
