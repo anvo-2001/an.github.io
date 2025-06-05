@@ -32,7 +32,7 @@ This report examines global CO₂ emission trends over 50 years using Our World 
 </div>
 
 <!-- Project 2: Housing Affordability -->
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 30px; display: flex; gap: 20px;">
+<div style="background-color: #f9f9f9; padding: 20px; display: flex; gap: 20px;">
   <img src="assets/img/Housing affordability.jpg" alt="Housing Affordability" width="200" height="120" style="object-fit: cover; border-radius: 6px;">
   <div>
     <strong>
@@ -43,10 +43,10 @@ This report examines global CO₂ emission trends over 50 years using Our World 
     <br />
     <a href="Housing-Affordability-Analysis/Dataset.xlsx" target="_blank">📊 Dataset (Excel)</a><br />
     <a href="Housing-Affordability-Analysis/Housing Affordability RScript.R" target="_blank">📄 R Script</a>
-    <p style="margin-top: 10px;">
-      This report examines housing affordability in England from 1997 to 2022 using data from the Office for National Statistics (ONS). It analyzes trends and regional disparities. Findings reveal a significant decline in affordability, with house prices growing faster than wages, especially in southern regions like London. The affordability ratio, based on five years of income, highlights these challenges.
-    </p>
   </div>
+</div>
+<div style="background-color: #f9f9f9; margin-bottom: 30px; display: flex; gap: 20px;">
+This report examines housing affordability in England from 1997 to 2022 using data from the Office for National Statistics (ONS). It analyzes trends and regional disparities. Findings reveal a significant decline in affordability, with house prices growing faster than wages, especially in southern regions like London. The affordability ratio, based on five years of income, highlights these challenges.
 </div>
 
 <!-- Project 3: AdventureWorks Dashboard -->
@@ -61,8 +61,8 @@ This report examines global CO₂ emission trends over 50 years using Our World 
     <br />
     <a href="Adventureworks/AW Dashboard.pbix" target="_blank">📊 Power BI File (.pbix)</a><br />
     <a href="https://ourworldindata.org/covid-deaths" target="_blank">🌐 Data Source</a>
-    <p style="margin-top: 10px;">
-      This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins, enabling data-driven decision-making.
-    </p>
   </div>
+</div>
+<div style="background-color: #f9f9f9; margin-bottom: 30px; display: flex; gap: 20px;">
+This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins, enabling data-driven decision-making.
 </div>
