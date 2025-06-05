@@ -13,7 +13,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
 <h2>Projects</h2>
 
 <!-- Project 1: CO2 Emissions -->
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 30px; display: flex; gap: 20px;">
+<div style="background-color: #f9f9f9; padding: 20px; display: flex; gap: 20px;">
   <img align="left" width="200" height="120" src="assets/img/CO2 emissions.jpg" style="margin-right: 20px;">
   <div>
     <strong>
@@ -27,7 +27,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
     <a href="Global-CO2-Emissions/Global CO2 Emissions - Time series (gdp and co2).R" target="_blank">📈 Time Series Script</a>
   </div>
 </div>
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 8px; margin-bottom: 30px; display: flex; gap: 20px;">
+<div style="background-color: #f9f9f9; padding: 20px; margin-bottom: 30px; display: flex; gap: 20px;">
 This report examines global CO₂ emission trends over 50 years using Our World in Data sources. It analyzes emissions distribution, historical responsibilities, and the correlation between GDP growth and emissions. Findings reveal that global CO₂ emissions have doubled since 1972, with China and India as the largest current emitters, while developed nations like the U.S. hold significant historical responsibility. Additionally, the analysis shows that a 1% increase in GDP corresponds to a 0.298% rise in CO₂ emissions.
 </div>
 
