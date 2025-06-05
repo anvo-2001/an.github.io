@@ -1,4 +1,4 @@
-# Data Science Portfolio - Nguyen Hoai An Vo
+# Data Analyst Portfolio - An Vo
 This portfolio is a compilation of data analysis projects I have completed for academic and self-learning purposes.
 
 - **Email**: [iya979597@gmail.com](iya979597@gmail.com)
@@ -21,14 +21,3 @@ This report examines housing affordability in England from 1997 to 2022 using da
 <img align="left" width="250" height="150" src="assets/img/AdventureWorks_Logo.png"> **[Adventureworks Sales Dashboard](https://github.com/anvo-2001/an.github.io/tree/main/Adventureworks)**
 
 This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends, and profit margins, enabling data-driven decision-making.
-
-#
-
-## Core Competencies
-
-- **Methodologies**: Statistics, Time Series, Regression
-- **Languages**: R (tidyverse, ggplot2, tmap), SQL, DAX <!-- Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), -->  
-- **Tools**: R Studio, Azure Data Studio, Power BI, Excel
-  
-## Certificates
-- [SQL Advanced(Hackerrank)](https://www.hackerrank.com/certificates/4b6347a58d65)
