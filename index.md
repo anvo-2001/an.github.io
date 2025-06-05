@@ -80,7 +80,6 @@ This report examines housing affordability in England from 1997 to 2022 using da
     <a href="https://ourworldindata.org/covid-deaths" target="_blank">🌐 Data Source</a>
   </div>
 </div>
-<br /><br />
 <div style="background-color: #f9f9f9; margin-bottom: 30px; display: flex; gap: 20px;">
 This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins, enabling data-driven decision-making.
 </div>
