@@ -26,7 +26,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
   </div>
 </div>
 <div style="background-color: #f9f9f9; margin-bottom: 30px; display: flex; gap: 20px;">
-xxxxxxxxxxxxxxxx
+This report examines global CO₂ emission trends over 50 years using Our World in Data sources. It analyzes emissions distribution, historical responsibilities, and the correlation between GDP growth and emissions. Findings reveal that global CO₂ emissions have doubled since 1972, with China and India as the largest current emitters, while developed nations like the U.S. hold significant historical responsibility. Additionally, the analysis shows that a 1% increase in GDP corresponds to a 0.298% rise in CO₂ emissions.
 </div>
 
 <!-- Project: CO2 Emissions -->
@@ -50,7 +50,7 @@ This report examines global CO₂ emission trends over 50 years using Our World 
 
 <!-- Project: Housing Affordability -->
 <div style="background-color: #f9f9f9; padding: 20px; display: flex; gap: 20px;">
-  <img src="assets/img/Housing affordability.jpg" alt="Housing Affordability" width="200" height="120" style="object-fit: cover">
+  <img src="assets/img/Housing affordability.jpg" align="left" width="200" height="120" style="margin-right: 20px;">
   <div>
     <strong>
       <a href="Housing-Affordability-Analysis/Housing Affordability Report.pdf" target="_blank" style="text-decoration: none; color: #333;">
@@ -68,7 +68,7 @@ This report examines housing affordability in England from 1997 to 2022 using da
 
 <!-- Project: AdventureWorks Dashboard -->
 <div style="background-color: #f9f9f9; padding: 20px; display: flex; gap: 20px;">
-  <img src="assets/img/AdventureWorks_Logo.png" alt="AdventureWorks Dashboard" width="200" height="120" style="object-fit: cover">
+  <img src="assets/img/AdventureWorks_Logo.png" align="left" width="200" height="120" style="margin-right: 20px;">
   <div>
     <strong>
       <a href="Adventureworks/AW Dashboard.pdf" target="_blank" style="text-decoration: none; color: #333;">
@@ -80,6 +80,7 @@ This report examines housing affordability in England from 1997 to 2022 using da
     <a href="https://ourworldindata.org/covid-deaths" target="_blank">🌐 Data Source</a>
   </div>
 </div>
+<br /><br />
 <div style="background-color: #f9f9f9; margin-bottom: 30px; display: flex; gap: 20px;">
 This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins, enabling data-driven decision-making.
 </div>
