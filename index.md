@@ -17,7 +17,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
   <img src="assets/img/Wage Rate.jpg" align="left" width="200" height="120" >
   <div>
   <strong>
-    <a href="Wage-Rate" target="_blank" style="text-decoration: none; color: #333;">
+    <a href="https://github.com/anvo-2001/an.github.io/tree/main/Wage-Rate" target="_blank" style="text-decoration: none; color: #333;">
         Machine Learning for Wage Prediction
     </a>
   </strong>  
