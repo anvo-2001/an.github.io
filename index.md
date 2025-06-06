@@ -47,7 +47,7 @@ Developed and compared four regression models (Ridge, Lasso, RF, NN) to identify
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-An R project analyzing 50 years of global CO₂ emissions from Our World in Data (1972–2022). Analysis revealed China and India as top current emitters, while the U.S. leads in historical and per capita emissions. A time series analysis also showed a 0.298% increase in CO₂ emissions associated with a 1% GDP increase.
+Analyzed 50 years of global CO₂ emissions from Our World in Data (1972–2022). Analysis revealed China and India as top current emitters, while the U.S. leads in historical and per capita emissions. A time series analysis also showed a 0.298% increase in CO₂ emissions associated with a 1% GDP increase.
 </div>
 
 <!-- Project: Housing Affordability -->
@@ -85,5 +85,5 @@ Analyzed Office for National Statistics data to examine housing affordability dy
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins, enabling data-driven decision-making.
+This project utilizes Power BI to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins, enabling data-driven decision-making.
 </div>
