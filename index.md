@@ -14,18 +14,21 @@ This portfolio is a compilation of data analysis projects I have completed for a
 
 <!-- Project: Hourly Wage Rate -->
 <div style="background-color: #f9f9f9; padding: 20px; display: flex; gap: 20px;">
+  <img src="assets/img/Wage Rate.jpg" align="left" width="200" height="120" style="margin-right: 20px;">
+  <div>
   <strong>
     <a href="Personal Project - Hourly Wage.html" target="_blank" style="text-decoration: none; color: #333;">
-        Investigate Hourly Wage Rate with Machine Learning Methods
+        Machine Learning for Wage Prediction
     </a>
   </strong>  
   <br />
-  <img src="assets/img/Wage Rate.jpg" align="left" width="200" height="120" style="margin-right: 20px;">
   <a href="Wage-Rate/BEAUTY.csv" target="_blank">📊 Dataset (Excel)</a>
+  </div>  
 </div>
 <div style="background-color: #f9f9f9; margin-bottom: 30px; display: flex; gap: 20px;">
-This report examines global CO₂ emission trends over 50 years using Our World in Data sources. It analyzes emissions distribution, historical responsibilities, and the correlation between GDP growth and emissions. Findings reveal that global CO₂ emissions have doubled since 1972, with China and India as the largest current emitters, while developed nations like the U.S. hold significant historical responsibility. Additionally, the analysis shows that a 1% increase in GDP corresponds to a 0.298% rise in CO₂ emissions.
+Developed and compared four regression models (Ridge, Lasso, RF, NN) to identify factors influencing hourly wages. Ridge Regression emerged as the preferred model, highlighting experience, education, and gender as significant predictors.
 </div>
+<br />
 
 <!-- Project: CO2 Emissions -->
 <div style="background-color: #f9f9f9; padding: 20px; display: flex; gap: 20px;">
@@ -45,6 +48,7 @@ This report examines global CO₂ emission trends over 50 years using Our World 
 <div style="background-color: #f9f9f9; margin-bottom: 30px; display: flex; gap: 20px;">
 This report examines global CO₂ emission trends over 50 years using Our World in Data sources. It analyzes emissions distribution, historical responsibilities, and the correlation between GDP growth and emissions. Findings reveal that global CO₂ emissions have doubled since 1972, with China and India as the largest current emitters, while developed nations like the U.S. hold significant historical responsibility. Additionally, the analysis shows that a 1% increase in GDP corresponds to a 0.298% rise in CO₂ emissions.
 </div>
+<br />
 
 <!-- Project: Housing Affordability -->
 <div style="background-color: #f9f9f9; padding: 20px; display: flex; gap: 20px;">
@@ -63,9 +67,10 @@ This report examines global CO₂ emission trends over 50 years using Our World 
 <div style="background-color: #f9f9f9; margin-bottom: 30px; display: flex; gap: 20px;">
 This report examines housing affordability in England from 1997 to 2022 using data from the Office for National Statistics (ONS). It analyzes trends and regional disparities. Findings reveal a significant decline in affordability, with house prices growing faster than wages, especially in southern regions like London. The affordability ratio, based on five years of income, highlights these challenges.
 </div>
+<br />
 
 <!-- Project: AdventureWorks Dashboard -->
-<div style="background-color: #f9f9f9; padding: 20px; display: flex; gap: 20px;">
+<div style="background-color: #f3f3f3; padding: 20px; display: flex; gap: 20px;">
   <img src="assets/img/AdventureWorks_Logo.png" align="left" width="200" height="120" style="margin-right: 20px;">
   <div>
     <strong>
