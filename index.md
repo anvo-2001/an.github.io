@@ -13,8 +13,8 @@ This portfolio is a compilation of data analysis projects I have completed for a
 <h2>Projects</h2>
 
 <!-- Project: Hourly Wage Rate -->
-<div style="background-color: #f3f3f3; padding: 20px; display: flex; gap: 20px;">
-  <img src="assets/img/Wage Rate.jpg" align="left" width="200" height="120" style="margin-right: 20px;">
+<div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
+  <img src="assets/img/Wage Rate.jpg" align="left" width="200" height="120" >
   <div>
   <strong>
     <a href="Wage-Rate" target="_blank" style="text-decoration: none; color: #333;">
@@ -26,7 +26,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
     <a href="Wage-Rate/BEAUTY.csv" target="_blank">📊 Dataset.csv</a>
   </div>  
 </div>
-<div style="background-color: #f3f3f3; margin-bottom: 30px; display: flex; gap: 20px;">
+<div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
 Developed and compared four regression models (Ridge, Lasso, RF, NN) to identify factors influencing hourly wages. Ridge Regression emerged as the preferred model, highlighting experience, education, and gender as significant predictors.
 </div>
 
@@ -68,7 +68,6 @@ An R project analyzing 50 years of global CO₂ emissions from Our World in Data
 <div style="background-color: #f3f3f3; margin-bottom: 30px; display: flex; gap: 20px;">
 Analyzed Office for National Statistics data to examine housing affordability dynamics. Key findings show a significant decline in affordability since 2002, with house prices (8.3 times annual earnings in 2022) far outpacing wage growth. The analysis also highlights substantial regional disparities, with London being the least affordable.
 </div>
-<br />
 
 <!-- Project: AdventureWorks Dashboard -->
 <div style="background-color: #f3f3f3; padding: 20px; display: flex; gap: 20px;">
@@ -85,6 +84,6 @@ Analyzed Office for National Statistics data to examine housing affordability dy
     <a href="https://ourworldindata.org/covid-deaths" target="_blank">🌐 Data (Our World in Data)</a>
   </div>
 </div>
-<div style="background-color: #f9f9f9; margin-bottom: 30px; display: flex; gap: 20px;">
+<div style="background-color: #f3f3f3; margin-bottom: 30px; display: flex; gap: 20px;">
 This project utilizes Power BI Desktop to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins, enabling data-driven decision-making.
 </div>
