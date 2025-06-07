@@ -109,9 +109,9 @@ Developed an interactive Power BI dashboard to track key COVID-19 metrics global
 </div>
 
 ## Certificates
-<a href="https://space.springpod.com/certificate/7vmczuz237nj/share" target="_blank" style="text-decoration: none; color: #333;">Business Intelligence Analysis - Marketing Intelligence - University of Liverpool</a><br />
-<a href="https://www.coursera.org/account/accomplishments/certificate/FMBE4JEQ4GRB" target="_blank" style="text-decoration: none; color: #333;">Python for Data Science, AI & Development - IBM</a><br />
-<a href="https://www.coursera.org/account/accomplishments/certificate/AEPCPMR8L3AL" target="_blank" style="text-decoration: none; color: #333;">Data Analysis with Python - IBM</a><br />
-<a href="https://www.hackerrank.com/certificates/4b6347a58d65" target="_blank" style="text-decoration: none; color: #333;">SQL Advanced - HackeRank</a><br />
-<a href="https://www.coursera.org/account/accomplishments/certificate/9DWGCKL8V89Q" target="_blank" style="text-decoration: none; color: #333;">Process Data from Dirty to Clean - Google</a><br />
-<a href="https://www.coursera.org/account/accomplishments/certificate/TKFUYBR2D8V8" target="_blank" style="text-decoration: none; color: #333;">Analyze Data to Answer Questions - Google</a>
+<a href="https://space.springpod.com/certificate/7vmczuz237nj/share" target="_blank" style="text-decoration: none; color: #333;">- Business Intelligence Analysis - Marketing Intelligence - University of Liverpool</a><br />
+<a href="https://www.coursera.org/account/accomplishments/certificate/FMBE4JEQ4GRB" target="_blank" style="text-decoration: none; color: #333;">- Python for Data Science, AI & Development - IBM</a><br />
+<a href="https://www.coursera.org/account/accomplishments/certificate/AEPCPMR8L3AL" target="_blank" style="text-decoration: none; color: #333;">- Data Analysis with Python - IBM</a><br />
+<a href="https://www.hackerrank.com/certificates/4b6347a58d65" target="_blank" style="text-decoration: none; color: #333;">- SQL Advanced - HackeRank</a><br />
+<a href="https://www.coursera.org/account/accomplishments/certificate/9DWGCKL8V89Q" target="_blank" style="text-decoration: none; color: #333;">- Process Data from Dirty to Clean - Google</a><br />
+<a href="https://www.coursera.org/account/accomplishments/certificate/TKFUYBR2D8V8" target="_blank" style="text-decoration: none; color: #333;">- Analyze Data to Answer Questions - Google</a>
