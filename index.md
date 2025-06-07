@@ -100,7 +100,7 @@ This project utilizes Power BI to analyze sales, profit margins, and customers f
     <br />
     <a href="Covid19-Trackin/Covid 19 Project.pdf" target="_blank">📘Dashboard.pdf</a><br />
     <a href="Covid19-Trackin/Covid 19 Project.pbix" target="_blank">📊 Power BI Dashboard.pbix</a><br />
-    <a href="https://ourworldindata.org/covid-deaths" target="_blank">🌐 Data source (Our World in Data)</a>
+    <a href="https://ourworldindata.org/covid-deaths" target="_blank">🌐 Data source (Our World in Data)</a><br />
     <a href="Covid19-Trackin/Covid 19 Project.sql" target="_blank">📄Preprocess.sql</a><br />
   </div>
 </div>
