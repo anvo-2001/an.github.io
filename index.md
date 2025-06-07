@@ -85,7 +85,7 @@ Analyzed Office for National Statistics data to examine housing affordability dy
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-This project utilizes Power BI to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins, enabling data-driven decision-making.
+Developed a Power BI dashboard to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins, enabling data-driven decision-making.
 </div>
 
 <!-- Project: Covid 19 -->
@@ -105,7 +105,7 @@ This project utilizes Power BI to analyze sales, profit margins, and customers f
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-Developed an interactive Power BI dashboard to track key COVID-19 metrics globally (confirmed cases, deaths, CFR) and by country, using data from "Our World in Data." SQL was used for preprocessing.
+Developed a Power BI dashboard to track key COVID-19 metrics globally (confirmed cases, deaths, CFR) and by country, using data from "Our World in Data." SQL was used for preprocessing.
 </div>
 
 ## Certificates
