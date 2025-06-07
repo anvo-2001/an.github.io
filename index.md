@@ -109,8 +109,8 @@ Developed an interactive Power BI dashboard to track key COVID-19 metrics global
 </div>
 
 ## Certificates
-<a href="https://space.springpod.com/certificate/7vmczuz237nj/share" target="_blank">Business Intelligence Analysis - Marketing Intelligence - University of Liverpool</a>
-<a href="https://www.coursera.org/account/accomplishments/certificate/FMBE4JEQ4GRB" target="_blank">Python for Data Science, AI & Development - IBM</a>
+<a href="https://space.springpod.com/certificate/7vmczuz237nj/share" target="_blank" style="text-decoration: none; color: #333;">Business Intelligence Analysis - Marketing Intelligence - University of Liverpool</a>
+<a href="https://www.coursera.org/account/accomplishments/certificate/FMBE4JEQ4GRB" target="_blank" >Python for Data Science, AI & Development - IBM</a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/AEPCPMR8L3AL" target="_blank">Data Analysis with Python - IBM</a>
 <a href="https://www.hackerrank.com/certificates/4b6347a58d65" target="_blank">SQL Advanced - HackeRank</a>
 <a href="https://www.coursera.org/account/accomplishments/certificate/9DWGCKL8V89Q" target="_blank">Process Data from Dirty to Clean - Google</a>
