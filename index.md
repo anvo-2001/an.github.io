@@ -94,7 +94,7 @@ This project utilizes Power BI to analyze sales, profit margins, and customers f
   <div>
     <strong>
       <a href="https://github.com/anvo-2001/an.github.io/tree/main/‎Covid19-Tracking" target="_blank" style="text-decoration: none; color: #333;">
-        AdventureWorks Sales Dashboard
+        COVID-19 Global Tracking Dashboard
       </a>
     </strong>
     <br />
@@ -105,7 +105,7 @@ This project utilizes Power BI to analyze sales, profit margins, and customers f
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-COVID-19 Global Tracking Dashboard: Developed an interactive Power BI dashboard to track key COVID-19 metrics globally (confirmed cases, deaths, CFR) and by country, using data from "Our World in Data." SQL was used for preprocessing.
+Developed an interactive Power BI dashboard to track key COVID-19 metrics globally (confirmed cases, deaths, CFR) and by country, using data from "Our World in Data." SQL was used for preprocessing.
 </div>
 
 ## Certificates
