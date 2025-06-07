@@ -6,11 +6,11 @@ This portfolio is a compilation of data analysis projects I have completed for a
 
 ## Core Competencies
 
-- **Methodologies**: Statistics, Time Series, Regression
-- **Languages**: R (tidyverse, ggplot2, tmap, series, urca, forecast), SQL, DAX <!-- Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), -->  
-- **Tools**: R Studio, Azure Data Studio, Power BI, Excel
+- **Methodologies**: Statistical Analysis, Data Preprocessing, Exploratory Data Analysis, Data Visualization, Regression Analysis, Time Series Modelling, Machine Learning 
+- **Languages**: R (tidyverse, ggplot2, tmap, forecast), Python (Pandas, Numpy, Scikit-Learn, Keras, Matplotlib), SQL (SQL Server), DAX
+- **Tools**: RStudio, Power BI, Excel, Azure Data Studio, Anaconda
 
-<h2>Projects</h2>
+## Projects
 
 <!-- Project: Hourly Wage Rate -->
 <div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
@@ -27,7 +27,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
   </div>  
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-Developed and compared four regression models (Ridge, Lasso, RF, NN) to identify factors influencing hourly wages. Ridge Regression emerged as the preferred model, highlighting experience, education, and gender as significant predictors.
+Developed and compared four regression models (Ridge, Lasso, Random Forest, Neural Network) to identify factors influencing hourly wages. Ridge Regression emerged as the preferred model, highlighting experience, education, and gender as significant predictors.
 </div>
 
 <!-- Project: CO2 Emissions -->
@@ -81,9 +81,33 @@ Analyzed Office for National Statistics data to examine housing affordability dy
     <br />
     <a href="Adventureworks/AW Dashboard.pdf" target="_blank">📘Dashboard.pdf</a><br />
     <a href="Adventureworks/AW Dashboard.pbix" target="_blank">📊 Power BI Dashboard.pbix</a><br />
-    <a href="https://ourworldindata.org/covid-deaths" target="_blank">🌐 Data (Our World in Data)</a>
+    <a href="https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms" target="_blank">🌐 AdventureWorks sample data</a>
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
 This project utilizes Power BI to analyze sales, profit margins, and customers for a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins, enabling data-driven decision-making.
 </div>
+
+<!-- Project: Covid 19 -->
+<div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
+  <img src="assets/img/Covid 19.jpg" align="left" width="200" height="120" style="margin-right: 20px;">
+  <div>
+    <strong>
+      <a href="https://github.com/anvo-2001/an.github.io/tree/main/‎Covid19-Tracking" target="_blank" style="text-decoration: none; color: #333;">
+        AdventureWorks Sales Dashboard
+      </a>
+    </strong>
+    <br />
+    <a href="Covid19-Trackin/Covid 19 Project.pdf" target="_blank">📘Dashboard.pdf</a><br />
+    <a href="Covid19-Trackin/Covid 19 Project.pbix" target="_blank">📊 Power BI Dashboard.pbix</a><br />
+    <a href="https://ourworldindata.org/covid-deaths" target="_blank">🌐 Data source (Our World in Data)</a>
+    <a href="Covid19-Trackin/Covid 19 Project.sql" target="_blank">📄Preprocess.sql</a><br />
+  </div>
+</div>
+<div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
+COVID-19 Global Tracking Dashboard: Developed an interactive Power BI dashboard to track key COVID-19 metrics globally (confirmed cases, deaths, CFR) and by country, using data from "Our World in Data." SQL was used for preprocessing.
+</div>
+
+## Certificates
+<a href="https://www.coursera.org/account/accomplishments/certificate/9DWGCKL8V89Q" target="_blank" style="text-decoration: none; color: #333;">
+        📜 Process Data from Dirty to Clean </a>
