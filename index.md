@@ -32,7 +32,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
         Machine Learning for Wage Prediction
     </a>
   <br />
-    <a href="Wage-Rate/Personal Project - Hourly Wage.html" target="_blank">📘Full Report.html</a><br />
+    <a href="Wage-Rate/Personal Project - Hourly Wage.html" target="_blank">📘Full Report (with Python).html</a><br />
     <a href="Wage-Rate/BEAUTY.csv" target="_blank">📊 Dataset.csv</a>
   </div>  
 </div>
