@@ -15,6 +15,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
     text-decoration: none;
     color: #333;
     font-weight: bold;
+    transition: color 0.3s ease;
   }
 
   .hover-link:hover {
@@ -27,11 +28,9 @@ This portfolio is a compilation of data analysis projects I have completed for a
 <div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
   <img src="assets/img/Wage Rate.jpg" align="left" width="200" height="120" >
   <div>
-  <strong> 
-    <a href="https://github.com/anvo-2001/an.github.io/tree/main/Wage-Rate" target="_blank" style="text-decoration: none; color: #333;">
+    <a href="https://github.com/anvo-2001/an.github.io/tree/main/Wage-Rate" target="_blank" class="hover-link">
         Machine Learning for Wage Prediction
     </a>
-  </strong>
   <br />
     <a href="Wage-Rate/Personal Project - Hourly Wage.html" target="_blank">📘Full Report.html</a><br />
     <a href="Wage-Rate/BEAUTY.csv" target="_blank">📊 Dataset.csv</a>
