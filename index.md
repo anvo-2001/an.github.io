@@ -11,14 +11,27 @@ This portfolio is a compilation of data analysis projects I have completed for a
 - **Tools**: RStudio, Power BI, Excel, Azure Data Studio, Anaconda
 
 ## Projects
+<style>
+  .hover-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+
+  .hover-link:hover {
+    color: #0883A0;
+  }
+</style>
 
 <!-- Project: Hourly Wage Rate -->
 <div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
   <img src="assets/img/Wage Rate.jpg" align="left" width="200" height="120" >
   <div>
-  <a href="https://github.com/anvo-2001/an.github.io/tree/main/Wage-Rate" target="_blank" style="text-decoration: none; color: #333;">
+  <strong> 
+    <a href="https://github.com/anvo-2001/an.github.io/tree/main/Wage-Rate" target="_blank" style="text-decoration: none; color: #333;">
         Machine Learning for Wage Prediction
-  </a>
+    </a>
+  </strong>
   <br />
     <a href="Wage-Rate/Personal Project - Hourly Wage.html" target="_blank">📘Full Report.html</a><br />
     <a href="Wage-Rate/BEAUTY.csv" target="_blank">📊 Dataset.csv</a>
@@ -32,9 +45,11 @@ Developed and compared four regression models (Ridge, Lasso, Random Forest, Neur
 <div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
   <img src="assets/img/CO2 emissions.jpg" align="left" width="200" height="120" style="margin-right: 20px;">
   <div>
+    <strong> 
     <a href="https://github.com/anvo-2001/an.github.io/tree/main/Global-CO2-Emissions" target="_blank" style="text-decoration: none; color: #333;">
         Who Bears CO₂ Emission Responsibility? 
     </a>
+    </strong>
     <br />
     <a href="Global-CO2-Emissions/Global CO2 Emissions - Report.pdf" target="_blank">📘Full Report.pdf</a><br />
     <a href="Global-CO2-Emissions/Global CO2 Emissions - Dataset.xlsx" target="_blank">📊 Dataset.xlsx</a><br />
@@ -50,9 +65,11 @@ Analyzed 50 years of global CO₂ emissions from Our World in Data (1972–2022)
 <div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
   <img src="assets/img/Housing affordability.jpg" align="left" width="200" height="120" style="margin-right: 20px;">
   <div>
+    <strong> 
     <a href="https://github.com/anvo-2001/an.github.io/tree/main/Housing-Affordability-Analysis" target="_blank" style="text-decoration: none; color: #333;">
         A Look at Affordable Housing in England (1997–2022)
     </a>
+    </strong>
     <br />
     <a href="Housing-Affordability-Analysis/Housing Affordability Report.pdf" target="_blank">📘Full Report.pdf</a><br />
     <a href="Housing-Affordability-Analysis/Dataset.xlsx" target="_blank">📊 Dataset.xlsx</a><br />
@@ -65,11 +82,13 @@ Analyzed Office for National Statistics data to examine housing affordability dy
 
 <!-- Project: AdventureWorks Dashboard -->
 <div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
-  <img src="assets/img/AdventureWorks_Logo.png" align="left" width="200" height="120" style="margin-right: 20px;">
+  <img src="assets/img/AdventureWorks.png" align="left" width="200" height="120" style="margin-right: 20px;">
   <div>
+    <strong> 
     <a href="https://github.com/anvo-2001/an.github.io/tree/main/Adventureworks" target="_blank" style="text-decoration: none; color: #333;">
         AdventureWorks Sales Dashboard
     </a>
+    </strong>
     <br />
     <a href="Adventureworks/AW Dashboard.pdf" target="_blank">📘Dashboard.pdf</a><br />
     <a href="Adventureworks/AW Dashboard.pbix" target="_blank">📊 Power BI Dashboard.pbix</a><br />
@@ -84,9 +103,11 @@ Developed a Power BI dashboard to analyze sales, profit margins, and customers f
 <div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
   <img src="assets/img/Covid 19.jpg" align="left" width="200" height="120" style="margin-right: 20px;">
   <div>
+    <strong> 
     <a href="https://github.com/anvo-2001/an.github.io/tree/main/‎Covid19-Tracking" target="_blank" style="text-decoration: none; color: #333;">
         COVID-19 Global Tracking Dashboard
     </a>
+    </strong>
     <br />
     <a href="‎Covid19-Tracking/Covid 19 Project.pdf" target="_blank">📘Dashboard.pdf</a><br />
     <a href="‎Covid19-Tracking/Covid 19 Project.pbix" target="_blank">📊 Power BI Dashboard.pbix</a><br />
