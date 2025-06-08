@@ -10,7 +10,6 @@ This portfolio is a compilation of data analysis projects I have completed for a
 - **Languages**: R (tidyverse, ggplot2, tmap, forecast), Python (Pandas, Numpy, Scikit-Learn, Keras, Matplotlib), SQL (SQL Server), DAX
 - **Tools**: RStudio, Power BI, Excel, Azure Data Studio, Anaconda
 
-## Projects
 <style>
   .hover-link {
     text-decoration: none;
@@ -23,6 +22,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
   }
 </style>
 
+<h2>Projects</h2>
 <!-- Project: Hourly Wage Rate -->
 <div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
   <img src="assets/img/Wage Rate.jpg" align="left" width="200" height="120" >
