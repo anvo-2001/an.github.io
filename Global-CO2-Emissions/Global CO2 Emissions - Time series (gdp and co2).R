@@ -61,7 +61,7 @@ adf_gdp
 adf_co2
 
 # Since both log gdp and log co2 emissions are found to be nonstationary
-# we need Cointegration test before proceeding to proper time seires modelling
+# we need Cointegration test before proceeding to proper time series modelling
 
 # Johansen Cointegration Test
 gdp_co2_matrix <- cbind(data$lgdp, data$lco2)
@@ -69,7 +69,7 @@ colnames(gdp_co2_matrix) <- c("lgdp", "lco2")
 coint_test <- ca.jo(gdp_co2_matrix, type = "trace", ecdet = "const", K = 2)
 summary(coint_test)
 
-# No cointegration → transform data to achcieve stationarity, first-differencing
+# No cointegration → transform data to achieve stationarity, first-differencing
 
 # First differences of logs
 data <- data %>%
