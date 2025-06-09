@@ -10,7 +10,7 @@ I look forward to connecting and learning with you!
 
 ## Core Competencies
 
-- **Methodologies**: Statistical Analysis, Data Preprocessing, Exploratory Data Analysis, Data Visualization, Regression Analysis, Time Series Modelling, Machine Learning 
+- **Methodologies**: Data Preprocessing, Exploratory Data Analysis, Statistical Analysis, Data Visualization, Regression Analysis, Time Series Modelling, Machine Learning 
 - **Languages**: R (tidyverse, ggplot2, tmap, forecast), Python (Pandas, Numpy, Scikit-Learn, Keras, Matplotlib), SQL (SQL Server), DAX
 - **Tools**: RStudio, Jupyter Notebook, Azure Data Studio, Metabase, Snowflake, Power BI, Excel, Google Sheets
 
