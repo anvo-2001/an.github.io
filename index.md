@@ -1,6 +1,7 @@
 # Data Analyst Portfolio
 👋 Hello!
-I am An Vo, a junior data analyst with a curious mind and a passion for continuous learning. I believe in the power of data to tell stories, solve problems, and drive business decisions. As someone early in my career, I’m excited to grow, take on new challenges, and keep improving every step of the way.
+I am An Vo, a junior data analyst. I believe in the power of data to tell stories, solve problems, and drive business decisions. As someone early in my career, I’m excited to grow, take on new challenges, and keep improving every step of the way.
+
 This portfolio is a compilation of data analysis projects I have completed for academic work and self-learning purposes.
 I look forward to connecting and learning with you!
 
