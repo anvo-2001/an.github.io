@@ -32,12 +32,12 @@ This portfolio is a compilation of data analysis projects I have completed for a
         Machine Learning for Wage Prediction
     </a>
   <br />
-    <a href="Wage-Rate/Personal Project - Hourly Wage.html" target="_blank">📘Full Report (using Python).html</a><br />
+    <a href="Wage-Rate/Personal Project - Hourly Wage.html" target="_blank">📘Full Report (Jupyter Notebook).html</a><br />
     <a href="Wage-Rate/BEAUTY.csv" target="_blank">📊 Dataset.csv</a>
   </div>  
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-[Python] Developed and compared four regression models (Ridge, Lasso, Random Forest, Neural Network) to identify factors influencing hourly wages. Ridge Regression emerged as the preferred model, highlighting experience, education, and gender as significant predictors.
+[Python - Jupyter Notebook] Developed and compared four regression models (Ridge, Lasso, Random Forest, Neural Network) to identify factors influencing hourly wages. Ridge Regression emerged as the preferred model, highlighting experience, education, and gender as significant predictors.
 </div>
 
 <!-- Project: CO2 Emissions -->
@@ -55,7 +55,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-[R] Analyzed 50 years of global CO₂ emissions from Our World in Data (1972–2022). Analysis revealed China and India as top current emitters, while the U.S. leads in historical and per capita emissions. A time series analysis also showed a 0.298% increase in CO₂ emissions associated with a 1% GDP increase.
+[R Studio] Analyzed 50 years of global CO₂ emissions from Our World in Data (1972–2022). Analysis revealed China and India as top current emitters, while the U.S. leads in historical and per capita emissions. A time series analysis also showed a 0.298% increase in CO₂ emissions associated with a 1% GDP increase.
 </div>
 
 <!-- Project: Housing Affordability -->
@@ -72,7 +72,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-[R] Analyzed Office for National Statistics data to examine housing affordability dynamics. Key findings show a significant decline in affordability since 2002, with house prices (8.3 times annual earnings in 2022) far outpacing wage growth. The analysis also highlights substantial regional disparities, with London being the least affordable.
+[R Studio] Analyzed Office for National Statistics data to examine housing affordability dynamics. Key findings show a significant decline in affordability since 2002, with house prices (8.3 times annual earnings in 2022) far outpacing wage growth. The analysis also highlights substantial regional disparities, with London being the least affordable.
 </div>
 
 <!-- Project: AdventureWorks Dashboard -->
@@ -89,7 +89,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-[Power BI] Developed a Power BI dashboard to analyze sales and profit margins for data-driven decision-making in a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins by time, product category, and region.
+[Power BI] Developed a dashboard to analyze sales and profit margins for data-driven decision-making in a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins by time, product category, and region.
 </div>
 
 <!-- Project: Covid 19 -->
@@ -107,7 +107,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-[Power BI, SQL] Developed a Power BI dashboard to track key COVID-19 metrics globally (confirmed cases, deaths, CFR) and by country, using data from Our World in Data. SQL was used for preprocessing.
+[Power BI, SQL] Developed a dashboard to track key COVID-19 metrics globally (confirmed cases, deaths, CFR) and by country, using data from Our World in Data. SQL was used for preprocessing.
 </div>
 
 ## Certificates
