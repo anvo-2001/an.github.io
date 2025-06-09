@@ -8,7 +8,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
 
 - **Methodologies**: Statistical Analysis, Data Preprocessing, Exploratory Data Analysis, Data Visualization, Regression Analysis, Time Series Modelling, Machine Learning 
 - **Languages**: R (tidyverse, ggplot2, tmap, forecast), Python (Pandas, Numpy, Scikit-Learn, Keras, Matplotlib), SQL (SQL Server), DAX
-- **Tools**: RStudio, Power BI, Excel, Azure Data Studio, Anaconda
+- **Tools**: RStudio, Jupyter Notebook, Azure Data Studio, Metabase, Snowflake, Power BI, Excel
 
 <style>
   .hover-link {
