@@ -1,5 +1,8 @@
 # Data Analyst Portfolio
-This portfolio is a compilation of data analysis projects I have completed for academic and self-learning purposes.
+👋 Hello!
+I am An Vo, a junior data analyst with a curious mind and a passion for continuous learning. I believe in the power of data to tell stories, solve problems, and drive business decisions. As someone early in my career, I’m excited to grow, take on new challenges, and keep improving every step of the way.
+This portfolio is a compilation of data analysis projects I have completed for academic work and self-learning purposes.
+I look forward to connecting and learning with you!
 
 - **Email**: [vnhoaian791@gmail.com](vnhoaian791@gmail.com)
 - **LinkedIn**: [linkedin.com/vnhoaian](https://www.linkedin.com/in/vnhoaian/)
@@ -8,7 +11,7 @@ This portfolio is a compilation of data analysis projects I have completed for a
 
 - **Methodologies**: Statistical Analysis, Data Preprocessing, Exploratory Data Analysis, Data Visualization, Regression Analysis, Time Series Modelling, Machine Learning 
 - **Languages**: R (tidyverse, ggplot2, tmap, forecast), Python (Pandas, Numpy, Scikit-Learn, Keras, Matplotlib), SQL (SQL Server), DAX
-- **Tools**: RStudio, Jupyter Notebook, Azure Data Studio, Metabase, Snowflake, Power BI, Excel
+- **Tools**: RStudio, Jupyter Notebook, Azure Data Studio, Metabase, Snowflake, Power BI, Excel, Google Sheets
 
 <style>
   .hover-link {
