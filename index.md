@@ -105,7 +105,7 @@ I look forward to connecting and learning with you!
     </a>
     <br />
     <a href="‎Covid19-Tracking/Covid 19 Project.pdf" target="_blank">📘Dashboard.pdf</a><br />
-    <a href="‎Covid19-Tracking/Covid 19 Project.pbix" target="_blank">📊 Power BI Dashboard.pbix</a><br />
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiMjM5Mzg4YTAtZWZjZC00Y2VkLWI5NmUtNzQwNDA3N2NkZWU3IiwidCI6IjY1NDQwOGRmLWRhNjQtNGE5NS1iOTI5LWQxYTBjMTllZjQ3MiJ9" target="_blank">📊 Power BI Dashboard.pbix</a><br />
     <a href="https://ourworldindata.org/covid-deaths" target="_blank">🌐 Data source (Our World in Data)</a><br />
     <a href="‎Covid19-Tracking/Covid 19 Project.sql" target="_blank">📄Preprocess.sql</a><br />
   </div>
