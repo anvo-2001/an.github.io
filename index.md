@@ -14,6 +14,15 @@ I look forward to connecting and learning with you!
 - **Languages**: R (tidyverse, ggplot2, tmap, forecast), Python (Pandas, Numpy, Scikit-Learn, Keras, Matplotlib), SQL (SQL Server), DAX
 - **Tools**: RStudio, Jupyter Notebook, Azure Data Studio, Metabase, Snowflake, Power BI, Excel, Google Sheets
 
+## Certificates
+
+- [Business Intelligence Analysis - Marketing Intelligence - University of Liverpool](https://space.springpod.com/certificate/7vmczuz237nj/share)
+- [Python for Data Science, AI & Development - IBM](https://www.coursera.org/account/accomplishments/certificate/FMBE4JEQ4GRB)
+- [Data Analysis with Python - IBM](https://www.coursera.org/account/accomplishments/certificate/AEPCPMR8L3AL)
+- [SQL Advanced - HackerRank](https://www.hackerrank.com/certificates/4b6347a58d65)
+- [Process Data from Dirty to Clean - Google](https://www.coursera.org/account/accomplishments/certificate/9DWGCKL8V89Q)
+- [Analyze Data to Answer Questions - Google](https://www.coursera.org/account/accomplishments/certificate/TKFUYBR2D8V8)
+
 <style>
   .hover-link {
     text-decoration: none;
@@ -104,7 +113,6 @@ I look forward to connecting and learning with you!
         COVID-19 Global Tracking Dashboard
     </a>
     <br />
-    <a href="‎Covid19-Tracking/Covid 19 Project.pdf" target="_blank">📘Dashboard.pdf</a><br />
     <a href="https://app.powerbi.com/view?r=eyJrIjoiMjM5Mzg4YTAtZWZjZC00Y2VkLWI5NmUtNzQwNDA3N2NkZWU3IiwidCI6IjY1NDQwOGRmLWRhNjQtNGE5NS1iOTI5LWQxYTBjMTllZjQ3MiJ9" target="_blank">📊 Power BI Dashboard.pbix</a><br />
     <a href="https://ourworldindata.org/covid-deaths" target="_blank">🌐 Data source (Our World in Data)</a><br />
     <a href="‎Covid19-Tracking/Covid 19 Project.sql" target="_blank">📄Preprocess.sql</a><br />
@@ -113,11 +121,3 @@ I look forward to connecting and learning with you!
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
 [Power BI, SQL] Developed a dashboard to track key COVID-19 metrics globally (confirmed cases, deaths, CFR) and by country, using data from Our World in Data. SQL was used for preprocessing.
 </div>
-
-## Certificates
-<a href="https://space.springpod.com/certificate/7vmczuz237nj/share" target="_blank" style="text-decoration: none; color: #333;">- Business Intelligence Analysis - Marketing Intelligence - University of Liverpool</a><br />
-<a href="https://www.coursera.org/account/accomplishments/certificate/FMBE4JEQ4GRB" target="_blank" style="text-decoration: none; color: #333;">- Python for Data Science, AI & Development - IBM</a><br />
-<a href="https://www.coursera.org/account/accomplishments/certificate/AEPCPMR8L3AL" target="_blank" style="text-decoration: none; color: #333;">- Data Analysis with Python - IBM</a><br />
-<a href="https://www.hackerrank.com/certificates/4b6347a58d65" target="_blank" style="text-decoration: none; color: #333;">- SQL Advanced - HackerRank</a><br />
-<a href="https://www.coursera.org/account/accomplishments/certificate/9DWGCKL8V89Q" target="_blank" style="text-decoration: none; color: #333;">- Process Data from Dirty to Clean - Google</a><br />
-<a href="https://www.coursera.org/account/accomplishments/certificate/TKFUYBR2D8V8" target="_blank" style="text-decoration: none; color: #333;">- Analyze Data to Answer Questions - Google</a>
