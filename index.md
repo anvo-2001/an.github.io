@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+ # Data Analyst Portfolio
 👋 Hello!
 I am An Vo, a junior data analyst. I believe in the power of data to tell stories, solve problems, and drive business decisions. As someone early in my career, I’m excited to grow, take on new challenges, and keep improving every step of the way.
 
@@ -103,7 +103,7 @@ I look forward to connecting and learning with you!
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-[Power BI] Developed a dashboard to analyze sales and profit margins for data-driven decision-making in a retail business. The dashboard provides interactive charts and graphs displaying sales trends and profit margins by time, product category, and region.
+Built an interactive Power BI dashboard to analyze sales performance, profit margins, and customer behavior. Included RFM-based segmentation to identify Best Customers, Loyal, Hibernating, and Almost-Lost users. Enabled data-driven decisions through visual insights on regional, product-level, and time-based trends.
 </div>
 
 <!-- Project: Covid 19 -->
