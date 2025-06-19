@@ -97,6 +97,7 @@ I look forward to connecting and learning with you!
     </a>
     <br />
     <a href="https://app.powerbi.com/view?r=eyJrIjoiMTE1MjU3YWItMDc5NC00ZjVjLThjZTAtYWUyYzg4NGU5YTk5IiwidCI6IjY1NDQwOGRmLWRhNjQtNGE5NS1iOTI5LWQxYTBjMTllZjQ3MiJ9" target="_blank">📊 Power BI Dashboard.pbix</a><br />
+    <a href="Adventureworks/AW Dashboard.pdf" target="_blank">📘Power BI Dashboard.pdf</a><br />    
     <a href="Adventureworks/AW Preprocess.sql" target="_blank">📄Data Preprocess.sql</a><br />
     <a href="https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms" target="_blank">🌐 AdventureWorks sample data</a>
   </div>
@@ -114,6 +115,7 @@ I look forward to connecting and learning with you!
     </a>
     <br />
     <a href="https://app.powerbi.com/view?r=eyJrIjoiMjM5Mzg4YTAtZWZjZC00Y2VkLWI5NmUtNzQwNDA3N2NkZWU3IiwidCI6IjY1NDQwOGRmLWRhNjQtNGE5NS1iOTI5LWQxYTBjMTllZjQ3MiJ9" target="_blank">📊 Power BI Dashboard.pbix</a><br />
+    <a href="Covid19-Tracking/Covid 19 Dashboard.pdf" target="_blank">📘Power BI Dashboard.pdf</a><br />        
     <a href="‎Covid19-Tracking/Covid 19 Project.sql" target="_blank">📄Data Preprocess.sql</a><br />
     <a href="https://ourworldindata.org/covid-deaths" target="_blank">🌐 Data source (Our World in Data)</a><br />
   </div>
