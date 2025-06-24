@@ -97,7 +97,7 @@ I look forward to connecting and learning with you!
         AdventureWorks Sales Dashboard
     </a>
     <br />
-    <a href="https://app.powerbi.com/view?r=eyJrIjoiMTE1MjU3YWItMDc5NC00ZjVjLThjZTAtYWUyYzg4NGU5YTk5IiwidCI6IjY1NDQwOGRmLWRhNjQtNGE5NS1iOTI5LWQxYTBjMTllZjQ3MiJ9" target="_blank">📊 Power BI Dashboard.pbix</a><br />
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiMTE1MjU3YWItMDc5NC00ZjVjLThjZTAtYWUyYzg4NGU5YTk5IiwidCI6IjY1NDQwOGRmLWRhNjQtNGE5NS1iOTI5LWQxYTBjMTllZjQ3MiJ9&pageName=da212b109a1a8022a0c3" target="_blank">📊 Power BI Dashboard.pbix</a><br />
     <a href="Adventureworks/AW Dashboard.pdf" target="_blank">📘Power BI Dashboard.pdf</a><br />    
     <a href="Adventureworks/AW Preprocess.sql" target="_blank">📄Data Preprocess.sql</a><br />
     <a href="https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver17&tabs=ssms" target="_blank">🌐 AdventureWorks sample data</a>
