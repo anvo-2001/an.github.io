@@ -51,7 +51,7 @@ I look forward to connecting and learning with you!
   </div>  
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-[Python - Jupyter Notebook] Developed and compared four regression models (Ridge, Lasso, Random Forest, Neural Network) to identify factors influencing hourly wages. Ridge Regression emerged as the preferred model, highlighting experience, education, and gender as significant predictors.
+[R Studio] Investigated whether Bitcoin acted as a safe-haven asset like Gold during COVID-19. I used R to perform a  time series analysis, building and interpreting ARMA-EGARCH models to compare the volatility dynamics of the two assets.
 </div>
 
 <!-- Project: Hourly Wage Rate -->
@@ -67,7 +67,7 @@ I look forward to connecting and learning with you!
   </div>  
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-[R Studio] Investigated whether Bitcoin acted as a safe-haven asset like Gold during COVID-19. I used R to perform a  time series analysis, building and interpreting ARMA-EGARCH models to compare the volatility dynamics of the two assets.
+[Python - Jupyter Notebook] Developed and compared four regression models (Ridge, Lasso, Random Forest, Neural Network) to identify factors influencing hourly wages. Ridge Regression emerged as the preferred model, highlighting experience, education, and gender as significant predictors.
 </div>
 
 <!-- Project: CO2 Emissions -->
@@ -80,8 +80,8 @@ I look forward to connecting and learning with you!
     <br />
     <a href="Global-CO2-Emissions/Global CO2 Emissions - Report.pdf" target="_blank">📘Full Report.pdf</a><br />
     <a href="Global-CO2-Emissions/Global CO2 Emissions - Dataset.xlsx" target="_blank">📊 Dataset.xlsx</a><br />
-    <a href="Global-CO2-Emissions/Global CO2 Emissions - RScript.R" target="_blank">📄 R Script.R</a><br />
-    <a href="Global-CO2-Emissions/Global CO2 Emissions - Time series (gdp and co2).R" target="_blank">📈 Time Series Script.R</a>
+    <a href="Global-CO2-Emissions/Global CO2 Emissions - RScript.html" target="_blank">📄 R Script.html</a><br />
+    <a href="Global-CO2-Emissions/Global CO2 Emissions - Time series modelling R code.html" target="_blank">📈 Time Series Modelling.html</a>
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
@@ -98,7 +98,7 @@ I look forward to connecting and learning with you!
     <br />
     <a href="Housing-Affordability-Analysis/Housing Affordability Report.pdf" target="_blank">📘Full Report.pdf</a><br />
     <a href="Housing-Affordability-Analysis/Dataset.xlsx" target="_blank">📊 Dataset.xlsx</a><br />
-    <a href="Housing-Affordability-Analysis/Housing Affordability RScript.R" target="_blank">📄 R Script.R</a>
+    <a href="Housing-Affordability-Analysis/Housing Affordability RScript.html" target="_blank">📄 R Script.html</a>
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
