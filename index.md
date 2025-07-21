@@ -38,6 +38,22 @@ I look forward to connecting and learning with you!
 </style>
 
 <h2>Projects</h2>
+<!-- Project: Bitcoin and Gold Time Series Modelling -->
+<div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
+  <img src="assets/img/Bitcoin and Gold.png" align="left" width="200" height="120" >
+  <div>
+    <a href="https://github.com/anvo-2001/an.github.io/tree/main/Bitcoin and Gold Volatility" target="_blank" class="hover-link">
+        Bitcoin vs. Gold in Crisis: Evaluating Volatility Dynamics During COVID-19 (Time Series Modelling)
+    </a>
+  <br />
+    <a href="Bitcoin and Gold Volatility/Bitcoin and Gold Volatility - Report.pdf" target="_blank">📘Full Report.pdf</a><br />
+    <a href="Bitcoin and Gold Volatility/Bitcoin and Gold Volatility - Time Series Modelling R Code.html" target="_blank">📊 Time Series Modelling R Code.html</a>
+  </div>  
+</div>
+<div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
+[Python - Jupyter Notebook] Developed and compared four regression models (Ridge, Lasso, Random Forest, Neural Network) to identify factors influencing hourly wages. Ridge Regression emerged as the preferred model, highlighting experience, education, and gender as significant predictors.
+</div>
+
 <!-- Project: Hourly Wage Rate -->
 <div style="background-color: #f3f3f3; padding: 10px; display: flex; gap: 20px;">
   <img src="assets/img/Wage Rate.jpg" align="left" width="200" height="120" >
@@ -51,7 +67,7 @@ I look forward to connecting and learning with you!
   </div>  
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-[Python - Jupyter Notebook] Developed and compared four regression models (Ridge, Lasso, Random Forest, Neural Network) to identify factors influencing hourly wages. Ridge Regression emerged as the preferred model, highlighting experience, education, and gender as significant predictors.
+[R Studio] Investigated whether Bitcoin acted as a safe-haven asset like Gold during COVID-19. I used R to perform a  time series analysis, building and interpreting ARMA-EGARCH models to compare the volatility dynamics of the two assets.
 </div>
 
 <!-- Project: CO2 Emissions -->
