@@ -47,7 +47,7 @@ I look forward to connecting and learning with you!
     </a>
   <br />
     <a href="Bitcoin and Gold Volatility/Bitcoin and Gold Volatility - Report.pdf" target="_blank">📘Full Report.pdf</a><br />
-    <a href="Bitcoin and Gold Volatility/Bitcoin and Gold Volatility - Time Series Modelling R Code.html" target="_blank">📊 Time Series Modelling R Code.html</a>
+    <a href="Bitcoin and Gold Volatility/Bitcoin and Gold Volatility - Time Series Modelling R Script.html" target="_blank">📊 Time Series Modelling R Script.html</a>
   </div>  
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
@@ -81,7 +81,7 @@ I look forward to connecting and learning with you!
     <a href="Global-CO2-Emissions/Global CO2 Emissions - Report.pdf" target="_blank">📘Full Report.pdf</a><br />
     <a href="Global-CO2-Emissions/Global CO2 Emissions - Dataset.xlsx" target="_blank">📊 Dataset.xlsx</a><br />
     <a href="Global-CO2-Emissions/Global CO2 Emissions - RScript.html" target="_blank">📄 R Script.html</a><br />
-    <a href="Global-CO2-Emissions/Global CO2 Emissions - Time series modelling R code.html" target="_blank">📈 Time Series Modelling.html</a>
+    <a href="Global-CO2-Emissions/Global CO2 Emissions - Time series modelling R code.html" target="_blank">📈 Time Series Modelling R Script.html</a>
   </div>
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
