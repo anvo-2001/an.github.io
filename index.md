@@ -51,7 +51,7 @@ I look forward to connecting and learning with you!
   </div>  
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-<strong>[R Studio]</strong> Investigated whether Bitcoin acted as a safe-haven asset like Gold during COVID-19. I used R to perform a  time series analysis, building and interpreting ARMA-EGARCH models to compare the volatility dynamics of the two assets.
+<span><strong>[R Studio]</strong> Investigated whether Bitcoin acted as a safe-haven asset like Gold during COVID-19. I used R to perform a  time series analysis, building and interpreting ARMA-EGARCH models to compare the volatility dynamics of the two assets.
 </div>
 
 <!-- Project: Hourly Wage Rate -->
