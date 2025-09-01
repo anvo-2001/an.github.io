@@ -52,7 +52,7 @@ I look forward to connecting and learning with you!
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
 [R Studio | quantmod, ggplot2, xts, tseries, forecast, lmtest, FinTS, rugarch]
-
+<br />
 Investigated whether Bitcoin acted as a safe-haven asset like Gold during COVID-19. I used R to perform a  time series analysis, building and interpreting ARMA-EGARCH models to compare the volatility dynamics of the two assets.
 </div>
 
