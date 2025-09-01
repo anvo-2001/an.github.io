@@ -51,7 +51,7 @@ I look forward to connecting and learning with you!
   </div>  
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
-[R Studio | quantmod, ggplot2, xts, tseries, forecast, lmtest, FinTS, rugarch]
+[R Studio | quantmod, ggplot2, tseries, forecast, lmtest, FinTS, rugarch]
 <br />
 Investigated whether Bitcoin acted as a safe-haven asset like Gold during COVID-19. I used R to perform a  time series analysis, building and interpreting ARMA-EGARCH models to compare the volatility dynamics of the two assets.
 </div>
@@ -70,7 +70,7 @@ Investigated whether Bitcoin acted as a safe-haven asset like Gold during COVID-
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
 [Python | pandas, numpy, matplotlib, seaborn, sklearn]
- 
+<br /> 
 Developed and compared four regression models (Ridge, Lasso, Random Forest, Neural Network) to identify factors influencing hourly wages. Ridge Regression emerged as the preferred model, highlighting experience, education, and gender as significant predictors.
 </div>
 
@@ -90,7 +90,7 @@ Developed and compared four regression models (Ridge, Lasso, Random Forest, Neur
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
 [R Studio | readxl, tidyverse, ggplot2, sf, tseries, urca, forecast]
- 
+<br /> 
 Analyzed 50 years of global CO₂ emissions from Our World in Data (1972–2022). Analysis revealed China and India as top current emitters, while the U.S. leads in historical and per capita emissions. A time series analysis also showed a 0.298% increase in CO₂ emissions associated with a 1% GDP increase.
 </div>
 
@@ -109,7 +109,7 @@ Analyzed 50 years of global CO₂ emissions from Our World in Data (1972–2022)
 </div>
 <div style="background-color: #f3f3f3; padding: 10px; margin-bottom: 30px; display: flex; gap: 20px;">
 [R Studio | readxl, tidyverse, ggplot2, sf, tmap]
- 
+<br /> 
 Analyzed Office for National Statistics data to examine housing affordability dynamics. Key findings show a significant decline in affordability since 2002, with house prices (8.3 times annual earnings in 2022) far outpacing wage growth. The analysis also highlights substantial regional disparities, with London being the least affordable.
 </div>
 
