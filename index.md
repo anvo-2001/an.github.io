@@ -151,4 +151,4 @@ Analyzed Office for National Statistics data to examine housing affordability dy
 
 ## Personal Research 
 
-- [EKC hypothesis: A comparative analysis on Production-based and Consumption-based emissions across income groups]([https://space.springpod.com/certificate/7vmczuz237nj/share](https://github.com/anvo-2001/an.github.io/blob/main/Research%20Papers/EKC%20hypothesis%3A%20A%20comparative%20analysis%20on%20Production-based%20and%20Consumption-based%20.pdf))
+- [EKC hypothesis: A comparative analysis on Production-based and Consumption-based emissions across income groups](https://github.com/anvo-2001/an.github.io/blob/main/Research%20Papers/EKC%20hypothesis%3A%20A%20comparative%20analysis%20on%20Production-based%20and%20Consumption-based%20.pdf)
